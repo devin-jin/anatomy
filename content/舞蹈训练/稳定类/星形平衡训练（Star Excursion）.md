@@ -1,5 +1,23 @@
 
 
+![https://images.openai.com/static-rsc-4/vdnpNKrx1tR_mdaRgIam19KvsAtOZy6_Cz-qhFW0vphk4Nj6jwJqis2INj_CPL42_cAevlH4-Y3bQLbwFDm0UoHZSPWHfs3jmXRPPUeQmwkCMdqAvCtRmqeNgTKofWH00z9kHHTIkfunR3lZ8PeNPEOalegvai5UwkmpS3d7gSkERqPzIx1FFiaP9yPrZavP?purpose=fullsize](https://images.openai.com/static-rsc-4/VRgmg4yYGqtjD3S8A3CDNGYZnTxg2w2yfytBPyyS1X3Qe6u124Lrdomh9YJfCxi6Ka1hRTwdgFuVYG1DpSjYJR8kjv4XTH7iEtlFPHoRfpFPBg662k3BNDKdBKoYWS68oH2cnCyOmyYsBuF76aGsk8g8RGJNbo8pLv6uE8oAYdo?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/KpYg7EX4JAgN4_g-CCCaNdFuq3DK52OzlD-A0UG2dvyMD0rk73GwMVBL58HPQf4BBLWkxXnn44h57pERgCLcwL_vq4EG0w4WuVL6bEHzmybGBeQd9UY1OGFHYP2BW6CMvSiodQu9L8jR5hOmQ0heeIwxyA-Yrik5R5gfE5lzzbGBjBuJaGMsUFlzLS_CIlPI?purpose=fullsize](https://images.openai.com/static-rsc-4/UKay5S2eJGpisCZmMMq3yR6pJah4ipHiqSmeeUUIKBIU2Iluvob-rHJ13xthYWUlSzFQLG0DQR-1EOD9tYlkN7pkxhj9h4rQwBzu7XXz4T4VgMJmhp3vV0sRhCf0IK14hzQwPqgjuJnaqKk-4tHEdvnT-olACSkVh2tRtOFKjcQ?purpose=inline)
+星形触地是非常经典的**单腿动态控制测试与训练动作**，同时兼具评估与训练价值。
+
+### 动作要点：
+
+- 单腿站立保持稳定
+- 另一腿向多个方向触地（前/侧/后斜）
+- 膝盖始终对准脚尖方向
+- 控制身体不晃动
+
+### 训练意义：
+
+- 提升单腿稳定性（舞蹈核心能力）
+- 增强踝—膝—髋协调控制
+- 发现左右侧控制差异
+
 ![Image](https://images.openai.com/static-rsc-4/PcHiaRdtkGeH7H-LVCBRwbajsVAlUjPyRITdxmeIUpu7utNUmYPY3VjadQK1ZZNwBEGQdfQ0sEQuNjRINmhcgBmTdkdGNQdyMNwIihAYPhLTp8e7SjDt1dtf6PlfgqJS1HLn2f2Vkeb4hRGAzRl2cCmvMFNsvV_Pd8KE9Wr8TFDgIMrSLhPQ4x5oaGY-Ocl0?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/Q_1fPCcDZ-eVVvs-c3rHUb59zdtjHFdI5J9RzWQIrmKiM2RytlHucFWlwFhkfK9vP6oE0T1hYzBQTiUMRdwDBGUCZ5r_DKbyAUpmjh1uYAN1gbx3Pa3ixkokWrD5lYCxMPAXZHtlMEzUaS3J-x7CevCE9i4qUIo8Mp2nL5FUe4WzI6JLyiXyMBwMO9gqnL6t?purpose=fullsize)
