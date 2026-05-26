@@ -1,0 +1,328 @@
+是的，但**不完全等于“提踵”**。
+
+更准确地说：
+
+> **Relevé = 舞蹈中的“有控制的提踵（上升到足尖/半脚尖）”**
+
+而普通健身里的“提踵（calf raise）”只是它的一个简化版本。
+
+---
+
+# Relevé 到底是什么？
+
+![Image](https://images.openai.com/static-rsc-4/vgKpzx1R8jpIuOJMZ0hFPB2uXe_W6s05gz2LkBK53Sz2xEppQe4z8IGxYD9mJW92-j5yLyju8WuRoOrXJcVC5OdbJ1stlXCdik75cBm-tFota_AdDIOc607-0clsYmmyIVBG198XeEZpHPVTWjC4Jb-HeaK60aJOCsbzusI9ElESKPjm5eZ4GbbTKH6bez0o?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/B_dbbdQv3Ul4fQJx54ZoThpAUS1BCeoYingzny2hMbjGFb_WBBKfzo5TzjSUoVVJj0D_TaqP_8MADGOL88O0HpTXqTITClbDmqlw3h548hXiZDXY0MvEo3aGMKNU1kFQBXaCQD8L_up5BEVE5eFARqnoVjJQPoUtRiDgB1oITQA8He4NkB7JOcRXcz2DABHK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dXtpIpopGVzQWwMubMvMRCYabptLW_PlrixkEGbI_i8m5JGhzKyhG5OcrjBNPzaaFVFkL3EPmJJX3m_fZdcti-ymYc5mdSv3w304tOn_gvuQdPhP4GSt8OZ5xs_FAUBa7EwQkhve2SOdLqmneQwWrsjWQNDgKhJtXEUNVuu9FQp1-HNbFGbUiKg4u0mz5pwg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eA7HosLTZJX0FXdfBxaTtDxAuhwrWPM0ZHI7jMEtjDEkxzAffZpnZWvckS1TX6U9A76xPz1Hwif5OXl-vIwlqA208uJGNF4Z1YHcle38mUtRqYMkxz36UZLjOYSo2TVccr02xQzr_fCAD6AIqGKTou_PIpGkyJ7Tk6HW6-o9_dyDJBQe-s3BDN9M57pwnXVo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nJWx4jA33nosuMoE0nVr-HNL9ksC4bxVy_ScJUTvQaeVCqcbk6WKjgXIsheKrsEaPLqyHLFERVxSXkJgNLEZpxCduR9ij0x0WFDkozBKOquGwvTGnXaWzEGKgRXEcPJiHpbVt_6YlHJti2f9ZLUDEH85XQHmRzH7O3CClUDXC1erjworZYDIc4lrr7n2Z2J1?purpose=fullsize)
+
+Relevé（法语：抬起）在舞蹈里指：
+
+> 从脚跟落地 → 控制性上升到半脚尖（demi-pointe）或足尖（pointe）
+
+它不仅是“抬起来”，而是一个完整的控制过程：
+
+- 足部发力
+    
+- 踝关节稳定
+    
+- 小腿控制
+    
+- 膝盖对齐
+    
+- 髋骨稳定
+    
+- 核心保持中轴
+    
+
+---
+
+# 普通提踵 vs Relevé
+
+![Image](https://images.openai.com/static-rsc-4/-IWIe7B4hKXhRMcYlyFLDQgYp2nPAXyxrBIEIo2Upn0rTMB2y0WitzE7JGwVU8AxBFvAtSNXF7dCVKByeVf5OTwo0f4VXWualFPdb8w3PW-Gm6TzVEgmz9FTv3ZHPptnRWuJT3AsENRIOkQ5feIfJYBlfzwpaiVi6cykHirek1a81IgapsXPaNMCeM6EGp-a?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mN6vj7AT3inIzjwo6Z-FLRvtyAzNdP3DlO7Vu8Hi52T-iFDBhVmaKZzPxhIXAolrRpqXspBRJDf0w7AEKsB6-sjlZwp0T092lPqPgcEsS4Io_E-zRmOauF5-fI9Q5tXQA8lKXnuqRylxkO1XyQcauYo4Mo82vneriHUC_vGZXff-sF7gCCFCE9aqyRo_f31e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aqWtaFUHYobX8SkEb4YQLRlN1x7-Dbex43gjSOecATKNa8S10W4I8Ma7aq4aqJ9Sa2pbXPc-6XB3-vTinEzb-_rco3wqxx-Ftzw3hJQbjkdLbbbJ8q-ykTuVZIG9UNqqR0T2NJyLxj8EjYWPq9odYdppRjZdnVG1yGejlGkXcuNfQwX0C2BzMfKKLqEhjdaw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+|项目|提踵（Calf Raise）|Relevé（舞蹈）|
+|---|---|---|
+|目的|小腿力量|全身控制|
+|关注点|腓肠肌|足踝 + 膝 + 髋 + 核心|
+|是否讲对齐|一般不强调|非常严格|
+|是否需要外开|不需要|通常需要（舞蹈）|
+|动作性质|单一肌肉训练|全身协调控制|
+
+---
+
+# Relevé 训练的核心是什么？
+
+## 1. 足踝控制（最关键）
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hdYVVP_7Gbbmqo54UvriQQBNo5i8s9FRytPgZ6rmpkcwPMDrAnSMCZEQPp6f4kjLWdWBULOOsjAXkQ9YEdweWIz5AJGdn6U4Il4e-Q5cF8Vx4wqUj7hsIzpbZ_Wd6cLJTY90TZt-5I8ykHyyB8KDxfY4fA7Vivc9l4ToeG4hM_LUGqIpTPP06iDZuT-XuDBm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yncHplRltIONAZo6tJy2xlo04UYXt_f8NfZa0SmOL-9kqBmPIskOlCZRQ6MqhfZYjif1j60dO9WRsurmgXpOxii2Qu_Z_qpgQCOBj7hZ1FgnMkQQqRlmvn31aWGr6lwDFvnEkY3f-B9vR_wY6KEwEy_7tRePZUCZGGY9CbG3tzbptYjdHQSRNwBS15DrBiXF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ydsGMUzvoA7HMvuq19plBWVLZBiuOcQfp_E7TPqYLdmh_9AIn80qzSHM-G2R0g9aJP-YdegZ2kByBVxg2RjOyOqnf_-XP92dBz-6sAQeGhEGMl4a1VSsbplk_NNk1bgHOJSTl6AOKc_qD-l5cn-KfShVds2wNapI0VhckI-s0t4rTdg-98k_S9AbrcFZwh4P?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ymtTB52BJQz9B2ra-O7_w3maEdAo0IcdRGgZ5uX42xxjoHYSk-2r9pUvdpFuiSRrHzfJzfAFxgBv0AHtRiYhhDP_Uc_cDnB54AZDBrk5P8xRKBIoXiGkDNj438Zf7kS-VgzF4bFQabQnUnoap09Bsoozb9dHAtW--Yb5yOiAaCUZMgUeoEB1dpipKT6jnt1M?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iKI8Ui1HTawfkaE3XyDHqYXB4zpbvi27qMa8XN6nVZ3IRU8F0V7dbbnu3PLuivf7wdl8CpjE2lPlSVgSUENr0wW08LyfUAdseZqzb3AlTbH45-bkOHwMLJ3mqf_evX1B4xLBjzAEp1LG77KnR9pjr-2okaAB1WjvqoMLT7kUPefsMVRup1DD0PZL_hyeld4E?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Um0ICpS0CNIr_mMAKfTyeIwGUdFD9gVyFNfPbpbPFjsrlUkgILoOyIXK7NesIvmCRnzt2HqDiXUF_-rWMiSs3KLASbFhCg_s4xxjzNrP9hmKB6FE9cxNBp_yqmUBhWYbRVaP2bOOvS2tku-kBVYXnf5BZUWSDPgRRQjNd6SPhc6_l1ztvJm0upJeh9Gx8RLv?purpose=fullsize)
+
+Relevé 不是“踮脚”，而是：
+
+> 用足部稳定系统把身体“推上去”。
+
+关键肌肉：
+
+- 腓肠肌（Gastrocnemius）
+    
+- 比目鱼肌（Soleus）
+    
+- 足底小肌群（Intrinsic foot muscles）
+    
+
+如果足弓塌：  
+→ Relevé 会不稳
+
+---
+
+## 2. 膝盖对齐
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Hck0sRmhdW-fscwvRe9zHPlX5AYZKTvOa7c9TBpEGjP22s2kRMalfVLIML4RmDrHxkAy9lr0uE_ATDZxcYtpgAsgbvTdMq0hqnS7vKFohJ4jeKn1KMMUDxRv7Bp9s4272KC1aJ24QW0CE7JxMwJ5-dpUPYmrkWmvp2HN9vtUrRdVdf470xX6G9RHmoP8I3Xg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SiDDppmvb3ttMN8Mrfvgxk-Jm4vWGEFNdsWGut_R8-0Xh3Dx3jd6CFUEMpaRsp_I6KaKQSq95rG1exOOjOXIl_eE_fdfnkdZRq7sVmihBWeSQv7h681Jzbm7dsn4j-ikPqaFpdOcm2M86K-psOjCD7FjTGP0lmjscFg6ZojcQPvdyv0bacP6bHHHZhXUSrhg?purpose=fullsize)
+
+在舞蹈 Relevé 中：
+
+- 膝盖必须对齐第二脚趾方向
+    
+- 不能内扣或外翻失控
+    
+
+否则会导致：
+
+- 踝不稳
+    
+- 膝压力增加
+    
+
+---
+
+## 3. 髋与外开控制
+
+![Image](https://images.openai.com/static-rsc-4/B_dbbdQv3Ul4fQJx54ZoThpAUS1BCeoYingzny2hMbjGFb_WBBKfzo5TzjSUoVVJj0D_TaqP_8MADGOL88O0HpTXqTITClbDmqlw3h548hXiZDXY0MvEo3aGMKNU1kFQBXaCQD8L_up5BEVE5eFARqnoVjJQPoUtRiDgB1oITQA8He4NkB7JOcRXcz2DABHK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qWiWefvqga2nk1zTnGFIUmEJBh87iZ_7Va5RgsQsWrwGgb7x_JAfzgq2IU5MqQ9LVOodgyGb6BK6zubsevCBwN77KJGBQK8EL9MsL6T31bMlfVMhFgBvX-j9KWdcnglsaMxhLAG_pcEbamArBUDGcI3opJiiwUoCHw_m6kdatQAXPWjFcAPZWP5uozC0zql9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/B_dbbdQv3Ul4fQJx54ZoThpAUS1BCeoYingzny2hMbjGFb_WBBKfzo5TzjSUoVVJj0D_TaqP_8MADGOL88O0HpTXqTITClbDmqlw3h548hXiZDXY0MvEo3aGMKNU1kFQBXaCQD8L_up5BEVE5eFARqnoVjJQPoUtRiDgB1oITQA8He4NkB7JOcRXcz2DABHK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/X5s1KSimSS2D2mTG4UKHk-kyz9rHPQB6HStrcjUGkqRGUKNDM5vd-FYKDlctCtFPq_COsRsw0ZG6G_97N-MdSzpAF8BxeUcJgFuvQSprezORioIey_umxTOqbeoVOiErrZAgjJgQVatsz5vuGCbCFZPJsupsJa8DWthxMsmt5oA0ce1EGJDoVm-NUboW1Nev?purpose=fullsize)
+
+Relevé 在舞蹈中通常带外开：
+
+- 髋外旋维持
+    
+- 骨盆不能塌
+    
+- 重心保持中轴
+    
+
+这点是健身提踵没有的。
+
+---
+
+## 4. 核心稳定
+
+![Image](https://images.openai.com/static-rsc-4/wsFM_ZjgTpv5VJ2y9sVtLKO98aHrdEQVaumiSd3S2RFlwBWx36m931WUQE_Z22CpQNy8N0PyU63ZEzpv-zYol3ircrlnuQKDFt3uwL6Jcww-8VJTza5GKXrNasCARgkQw0oSsuSp509sWSz20Qc-AsTUNjtTQEnnu-p54rkwXLhWRcx2J_ncYSNaTlb1QRKQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wsFM_ZjgTpv5VJ2y9sVtLKO98aHrdEQVaumiSd3S2RFlwBWx36m931WUQE_Z22CpQNy8N0PyU63ZEzpv-zYol3ircrlnuQKDFt3uwL6Jcww-8VJTza5GKXrNasCARgkQw0oSsuSp509sWSz20Qc-AsTUNjtTQEnnu-p54rkwXLhWRcx2J_ncYSNaTlb1QRKQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TfX7GZExf2jbWejUEeZIauYbkB3823iW75fnro5piP3nOEkyLdkV0tAqwfGb-mpPrCqoeZsuIZe0YEMBGXM4SN7wZT7YeuP-0DWWunME2xbsl4IG-KCGP9o0i5cdCrJK2Ma1YbHMGwberjLnsWVQ90w3Q4Q8_2GDXdNGgXzP8CQ62O9Y8MpmQKVoNd9FkXsg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WAibxBQbwMLToVQ3E2YxZa1nTbbRCj3L_CLGfsRC48qm4TMaAzP9gvWBFB21jdX-yMQrMro0w6z3nuJw2dy1XGH9vE1q-ChOSGu056XmzTQElUT5dBQaZ6gUHRUkQg4kCBNtq2rRns_ZGuVc2q5TAGbMUU7uu5DHQkxmu2RynzkRIHHm2sZYxON1570Mzl6y?purpose=fullsize)
+
+Relevé 看似是脚，但本质是：
+
+> 全身垂直稳定控制。
+
+如果核心不稳：
+
+- 身体会前倾
+    
+- 或后仰
+    
+- 或左右晃
+    
+
+---
+
+# Relevé 的训练价值
+
+## 1. 提高足踝力量 + 稳定
+
+- 提升脚踝控制能力
+    
+- 增强足弓结构
+    
+
+---
+
+## 2. 改善舞蹈“站不稳”
+
+很多舞蹈问题来自：
+
+- 脚踝软
+    
+- 重心晃
+    
+
+Relevé 可以直接改善。
+
+---
+
+## 3. 提升旋转能力（Pirouette基础）
+
+![Image](https://images.openai.com/static-rsc-4/ErUsqwZe391LWp3ltn7vM02ARGxyVZSNOnMdG_jz5gFLFcG39GU5OcSCe364pGfrJ0jjt9ntYwo9K1htiqRTgvPqcbg5uxG5ZW6ngrz31rFujspUuIeTor-rvHGXzuS09d9uSzH0Lc-TSCqUrkelC1Nba774CTkq45vrQCrLbaXOViFO7a8qR3Tiy2xESTzV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dXtpIpopGVzQWwMubMvMRCYabptLW_PlrixkEGbI_i8m5JGhzKyhG5OcrjBNPzaaFVFkL3EPmJJX3m_fZdcti-ymYc5mdSv3w304tOn_gvuQdPhP4GSt8OZ5xs_FAUBa7EwQkhve2SOdLqmneQwWrsjWQNDgKhJtXEUNVuu9FQp1-HNbFGbUiKg4u0mz5pwg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/B_dbbdQv3Ul4fQJx54ZoThpAUS1BCeoYingzny2hMbjGFb_WBBKfzo5TzjSUoVVJj0D_TaqP_8MADGOL88O0HpTXqTITClbDmqlw3h548hXiZDXY0MvEo3aGMKNU1kFQBXaCQD8L_up5BEVE5eFARqnoVjJQPoUtRiDgB1oITQA8He4NkB7JOcRXcz2DABHK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ND951jOyP6_8ijWCmPey3JEc6Y1f5g5SB8WH1nBF5t1qEUYH9DNzDBhHNN_1qVQgztRLlCoTDyMLhvFkQJlOpGsda1Mucdyt70mwggB1aNPIt8RXCdlDtML76lSY0UrVvZvArA9Y6q2bnSSQjE-httXJOqKaB-i6WSxw3WloW8UNR7bp9QZ6kc5iE9PNsCtB?purpose=fullsize)
+
+旋转需要：
+
+- 单脚稳定
+    
+- 足尖控制
+    
+- 中轴垂直
+    
+
+Relevé 就是基础。
+
+---
+
+# 常见错误
+
+## 1. 只用脚趾“硬顶”
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FqQWo6_MCCCrnJOwKwWhVP5hPCYsHu-bGnOYZ85ukDF0PpWW0XJrMF1KawZBcqMZbiTUYV-X63YYUL_ZpSjm1kkg1baU5SCQW2PrB2kzl3kIsVodRWYkEXHM6-JnkPYe1HxytGJRWZvK5XWnLAfxe9YYJYL5ejnSp-dGVhp2ZDY5-EjigGvjkcxylTexJpWb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0PYIyvzEo3j_9XSBBlK97JpMN4XvkV98rmdur_6gYZ4q313gxY88NYUuRPbdLh_6spl2q8eB80SdfUKc1xz7JScWgLJB2ybg4gCrCXgO-x4yXdt6naaQlsvFrmgBobDSlVNEvaDqaNlRjJmnnwMN5xvR789o67tm1Wx5sLiSlf2D1V-daiYf88lyuyXZJhUq?purpose=fullsize)
+
+问题：
+
+- 足弓塌
+    
+- 踝不稳
+    
+- 容易受伤
+    
+
+---
+
+## 2. 身体前倾
+
+说明：
+
+- 核心没控制
+    
+- 重心不在中轴
+    
+
+---
+
+## 3. 膝内扣
+
+说明：
+
+- 髋控制不足
+    
+- 外开不稳定
+    
+
+---
+
+## 4. 快速弹起
+
+Relevé 不是“弹跳”，而是：
+
+> 慢 + 稳 + 可控
+
+---
+
+# Relevé 进阶训练
+
+## 1. 单腿 Relevé
+
+![Image](https://images.openai.com/static-rsc-4/VTykPmpbDiHRmJH2ooXIeBQl-avXSsysOunFxtaZt-8DFjOYvZn7wiXanrR_fRS4z_Cnb9rb-S0WrelNqRcDLl3Jt1bRMFJuXcsRfygZQOCt-0JZYGV2lxGaKNUhKVqgQDXCRsve7zPW-oEKTpdPtRy14wmRnhvOEf2-9jKvUZHqkrvjWu_vrLlmzXo4zb71?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TP2_wd5U7uonwhy_n7LwFCDN0S9xUR7x1-TvCpwI0WV_WGTmPe6Yb89s_5yw4GDEUGwpIN04JrCfgSPNZXH_-EHJTlzRjjoXG37JNzZASV9Yvd9ls4-Tl7r6bFPtklteZG-XWDsbNBMfwiwz4bMNcjD2RbHJhx7FmVyeQsuDysbz0uBXFozzj-CieWI37He9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HO7HEisfJQgSmQj-AxeRUbg7b0PuD9Lb_LsL44Cl9v7As4gVxPhaqyMbMETBW1EJjS7O2YTqwmnI19cWpkW3vp-t-hPR29ATbY5Y4CEqAfCUiBI5YqI5kZiwkrP4L1FTzXiuKsD9LKsDdk7gSIW8e38atnidWcJETdXJxkhzpxCF21VspmBjwwWYxw6Gsbqj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/IqzRdoEOT-2J7XiB6vYULyeXMMu2UvPouIyEI8v5s4FfGCqaMTDiQ9us3khPcvNYrKyYXud3UsLFrcY8LJXgcJIV26hlwCBxWNwSzVXV6sDf_I25xAEjgSI8nbKZTbP3y74OCUfJgoGo1xHJvobV2zdygeva1TYaEU5D6lZAYgJElhapIGe60Lxbx0RT2Te4?purpose=fullsize)
+
+难度更高：
+
+- 单腿稳定
+    
+- 更接近舞蹈动作
+    
+
+---
+
+## 2. 慢速 Relevé
+
+- 3秒上升
+    
+- 3秒下降
+    
+
+---
+
+## 3. 停顿控制
+
+在最高点停住：
+
+- 提升稳定能力
+    
+
+---
+
+# 总结
+
+✔ Relevé ≠ 普通提踵  
+✔ Relevé = “全身控制的脚踝上升动作”
+
+它训练的不只是小腿，而是：
+
+> 足踝 + 膝 + 髋 + 核心的整体垂直稳定系统
+
+---
+
+# 一句话总结
+
+> 提踵练的是“小腿力量”，Relevé练的是“舞蹈中的整体站立控制能力”。
