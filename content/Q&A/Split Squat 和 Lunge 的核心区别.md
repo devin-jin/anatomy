@@ -4,18 +4,24 @@
 
 但实际上：
 
+
+
+![Image](https://images.openai.com/static-rsc-4/SFxER8ZJvffriotu8dvNSEOpBuPVCj9ymthGQjh9KiuD73CdrAZrRM3EY6cPbsS8St07I3-ucm1CkQQ5FVbVmvFetQyWKueYLLCQAtEjKN46gGP1gr-J_vSyp4FuQemC1KT2dmTPc1yYyD3ldBkTY8gE-MjaIZOCnSy-FL-gsTxTGRbCeHFjEoXJHhgTNtvR?purpose=fullsize)
+
+
 ## 它们训练的神经控制目标并不完全一样。
 
 # 先看最本质区别
 
-|   |   |   |
-|---|---|---|
-|动作|Split Squat|Lunge|
-|双脚|固定不动|会移动|
-|类型|稳定型|动态型|
-|重点|控制与稳定|减速与转换|
-|难点|单腿稳定|动态接受冲击|
-|更像|“力量底座”|“运动表现”|
+| 动作   | [[分腿蹲（Split Squat）]] | [[弓步蹲（Lunge）]] |
+| ---- | -------------------- | -------------- |
+| 双脚   | 固定不动                 | 会移动            |
+| 类型   | 稳定型                  | 动态型            |
+| 重点   | 控制与稳定                | 减速与转换          |
+| 难点   | 单腿稳定                 | 动态接受冲击         |
+| 更像   | “力量底座”               | “运动表现”         |
+| 难度   | 更基础（控制）              | 更高（协调）         |
+| 舞蹈意义 | 单腿支撑                 | 步伐/跳跃连接        |
 
 # 一、Split Squat 的核心目的
 
