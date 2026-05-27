@@ -7,7 +7,8 @@
 
 > 离心训练在提升“主动柔韧性”和长期组织适应方面，  
 > 可能比单纯静态拉伸更有价值。
-
+> 
+## [[离心训练一定要在末端做才有提升柔韧性的效果吗]]
 ---
 
 # 一、最经典的系统综述（2012）
@@ -302,50 +303,12 @@
 
 ---
 
-#  Heel Drop（离心提踵）
-
-小腿研究中非常经典。
-
-尤其阿基里斯腱研究里大量使用。
-
----
-
-# Alfredson Heel Drop
+#  [[离心提踵（Heel Drop）]]
 
 ![Image](https://images.openai.com/static-rsc-4/SyZ-OF8Az8RThs2bPTr5s_9sl-YKOy9m3n47P1C2ZWX4nFr80U7-dQb37Z09l-B1-RhTFaUhAFZHkpWTZCooHYDnJsv2LXT-n2JU4Q_0j059dLplFeYxrNYq-WI2P03Ld8qbbD1K2kxurk_GoR722Tt5HkZsVIP9XysxFwZDvhY8TwYjRgJyBVfjdnqaVTH4?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/DnJ3LajLsTmw9kM3DgtOwUw15VTTGiMTW2gJ0iOR_7x20E0gqEd4RmJNU8X1_3gY66A4JP5nva79LLxQ4X9POTa5QQaaKW1avMyU3wB_kV7y9kYvOYVOb3ocBKayYdlbfXKSmawSFegIHHQZoDlWHEYiG7AgwEQXCRP-rvJy1aO0qSafddAye6XFGjjHiT-9?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/BVq8JJY5glKxDP1Fwd4SGG8xSunxYaUAaBmd_uf_HMOX1k5VdRy2HwDvBsZaPTW3GDLzDslwwseci5KmLv5udnOZ_pFiPl3a4u-vYeBUqsfjBGIa4BmVEU2d2oxwCyBSVes614qq2rt1bWMkKfQ-X9Pvuy3y-YMFyewrHiPyntgE-pF2cJxo87VJHsMrg55C?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/vHI1e6LGSuNKOOY0xHoQNefBxsQBaJFNGbMmdBkvStxm9DtEFR2FIsUHzre3lGpM6FLSh4qa4qXS1dxXgdvxG0ThtJq35sYX59Rvoep3zvHbZlTasrZLQkz-YYGsxTMutEjxLimU1evtRJ1t48TbLm7oQlQD5bznFkmtkC2rfLnl5teIh4Nrm_oe-iZHkcHz?purpose=fullsize)
-
-动作特点：
-
-- 缓慢离心下降
-    
-- 小腿在拉长状态下受力
-    
-
-研究发现：
-
-不仅改善：
-
-- 跟腱耐受
-    
-- 小腿力量
-    
-
-还会改善：
-
-- 踝背屈ROM
-    
-- 小腿柔韧性
-    
-
 ---
 
-# Split Squat / Lunge 长位离心
+# [[分腿蹲（Split Squat）]]/ [[弓步蹲（Lunge）]] 长位离心
 
 很多现代研究会用：
 
@@ -360,29 +323,8 @@
 
 ---
 
-# 深位分腿蹲（长位髋屈肌训练）
-
+# [[深位分腿蹲（长位髋屈肌训练）]]
 ![Image](https://images.openai.com/static-rsc-4/BzWV7kZOzwWnFfkfWk_kKoru5mbNKftIlinDGIMp5ybdmrCNB1tX3F4An8YYmhF1KzlvwlB3vrr7ZAp2jLYIqpFwRxM9Hrpl9uC-6UQVWBs5RfdhJofHRga4J4wHeVre6JyGA7MKxU_IeWrASPvyi-tA07zlD5xTWjupI41xb78nMzNrt2skrA4pEnHQ0xUJ?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/o4DkFM9JSfWr9va1w_saZ2lTh18v87kBtD5-d04uZpbFXJGBZeUw2YC4JSks7KKSDX7VC-y-GSe0eA-EB3Ccdd6CDcQVOsD8usAMZU7TxvsvyGg5GalBUJLRaKIddHJcH1NtDNaiw7x8KfxMvBhSLl9ptLVwfb8Q44ucLhU2Smr_g-pv8rcIef_VT9ca2hzM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/KLrRw7eX9hfweFQ1GTJDU4m-l2SYMnkNtYmBBkG38T9EXj7xroG2emjNcQafQHexJrOxGks-92U77a1zjawlPbCnDe4xO4n-WBprChuPgHqxad1Cp6RggAN-Oo4fdeAp6Q_5WNA1Fi0uSJlBi8vrRpK4CRQnyHBVBzYtcFNlY1eq1em8vui34SGCh3MT0wCP?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/e0BfunKgiA_hmEk6dvc6EnvtC7A1yxB6KUFeBN7zWfewB4Mou6V6gV2dVPYHZIHflqW_UscYUovcVMxSEQbP16HSt7Rt13RZo1rCfVyNMutj0S2s-YcjTGFvRrLthXsxsqb_YGLiO0MKTL6xKLItzxWByFVX1Fqb0gcIdbJHGWBouyRUHYPEk7V3dSBSwaQj?purpose=fullsize)
-
-尤其对：
-
-- 髋屈肌
-    
-- 内收肌
-    
-- 前侧链
-    
-
-效果明显。
-
-现代 Loaded Stretching 很多都来源于这种思路。
-
 ---
 
 # 八、这些研究有个共同点
