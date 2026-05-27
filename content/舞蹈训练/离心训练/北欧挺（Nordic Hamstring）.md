@@ -19,3 +19,25 @@
     
 
 还明显降低拉伤风险。
+
+在很多研究里：
+
+受试者进行：
+
+- 缓慢离心下降
+    
+- 必要时手撑地
+    
+- 再辅助回到起始位
+    
+
+研究发现：
+
+- 腘绳肌 fascicle length（肌束长度）增加
+    
+- ROM 增加
+    
+- 拉伤风险下降
+    
+
+这是目前证据最强的离心动作之一。 ([Springer](https://link.springer.com/article/10.1007/s40279-019-01178-7?utm_source=chatgpt.com "The Effect of Nordic Hamstring Exercise Intervention Volume on Eccentric Strength and Muscle Architecture Adaptations: A Systematic Review and Meta-analyses | Sports Medicine | Springer Nature Link"))

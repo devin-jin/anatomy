@@ -274,144 +274,29 @@
 
 # [[罗马尼亚硬拉（Romanian Deadlift（RDL））]]
 
-长位髋主导训练。
+
 
 ![Image](https://images.openai.com/static-rsc-4/8VpGweLYdDvD7Niqjwpli38FxvjRpwQorLflf2DA5LBpOCBuJ8XDO2uBhTzauTnDPDu-tOhoIw4F7FQYlPwD3GhO-rn3AnViBJ7CuAG4EIvUw90r73G8TnnxOhh8hS5BMsDBU-R2JibSMueXqXD2V69xBfwc0jqTcDxsUxgEo1-5adwvoc3ARIVGnc7J3_QG?purpose=fullsize)
 
-核心在于：
 
-缓慢离心下降。
-
-例如：
-
-4–5秒下降。
 
 ---
 
 # [[Jefferson Curl（杰斐逊卷曲）]]
 
-
+![Image](https://images.openai.com/static-rsc-4/5NDSEH6eImhrH4Abx7KOj6bhXhmC0XQXnt0fH-4Gw5ZJ7vOjauX-SK_u4FDa9HyhrwkxIJcheuyH5Mm3zhIfpDhjTyuA9HuOiVdV5T8WGj4xR3BBLiPwuV8jxUS7m3ynOspn8X8o4pUqY4m4fHZXE-afg_qzfa4cxnWxsEP2MDFODR7lYXnAPGxBd2kGA08L?purpose=fullsize)
 ---
 
-# Cossack Squat（哥萨克深蹲）
-
-提升：
-
-- 内收肌柔韧性
-    
-- 髋活动度
-    
-- 长位力量
-    
+# [[Cossack Squat（哥萨克深蹲）]]
 
 ![Image](https://images.openai.com/static-rsc-4/GZQAbR7S-hPj3dYTJJswRE1j4B7ZlrF176BCohzelKq1e2znq8UKONUCFabfEcIdA85ctv-GLzYpQpSoHjx9zvOS7K0VA9SUPb7PMnquCjgV2lQ6JHrVcugQ3XOT5KNIncSL7L2RFwtdehOAFQ80xv_qoz9_VuaqtieVJwCJ_bRLBRUgCGV2U6T1tVEPJz6V?purpose=fullsize)
+---
 
-![Image](https://images.openai.com/static-rsc-4/BIseUe_6-hGGxRqMKY0clh4EPP3BfwmZ-ijhgJrGZ1ZjCZLQ92I2aTDQtUN4G07_HQsNr-5Pk9DEMK8rs39_bvto4JOvU8FJtL4eJf99OEjEcOAZXRFb6wLPhIZN07XEjWZMlmguyNCr6iUaiR8n_BAHnsGlB7DbXCRgD3Yg-GC55SQXNoDlrtD5F_OvlF4f?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/zcLclZQs_g0BtqEhdwsfb-JO3NG1q1Zi4aHN_JeCuolDqbJJPJaLUiwT6VViUVvXEznZdIeaeptA9jvFAP15DH9anBGIQ8QV_fwETLo4GypoHGyg5dEtrXlYfo1X0j1ztVM3mSmsYVS2epctx1cMZZD6JfBUeOFgft2bh7mw2izRm3W3d_eMY-gKXjAnKvbB?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/fSCYBqVZzlmdLpK8IRx54TnC5sGe8f1HgiVQT5iLdnCmrMd9x3UjlcGp0Af3KoOHQBKEQnqXC90LlaIeTlnDBS53HTb35Ezeu1ADq3rpsK_cc8psBlwTDFhh1b8__DCBRGtpUft4gK6CNQ2NueC-uNNKSOQriD8-x7dkQr4vgpLhPO1-LDKBNn9BWoaAfCxr?purpose=fullsize)
 
 ---
 
-# 一、Nordic Hamstring（北欧腘绳肌）——出现最多
 
-这是研究最多的动作之一。
-
-![Image](https://images.openai.com/static-rsc-4/lVsL0nOilQRz7yq85TopN-7ZUUc_tsqMkKYQZFa_18Tx4larmQ2rsuyT1CPqndQ5_dVK1OkAt_d1t9LIGBMchdrTwSrDGp7EexpMs19qxQ74p6Jh3Fj-yqC1qUD1HVgBAxgWtTJ_YT92PrCDOPnLyWGw4WDee2DU2OzVQ48LrNyrMcjPe2XB2f1_4kG4QwAM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/UW2WGcYXPMZh_TH8_DUEaZxMbJgx7aB1p5m0ZmZpFZSEamLZOnNYSPY8C3DMjJpFUPXNxkIjJ0Pl6tJ3KU0kX0GwcWsLu35E90Gj_ADP0xeO_FyDPeGlJKJ0cwwdmkDdj3DoqpuByxExjbinALuN3IBWROF1-dsTmLZbklQDjTeDDvf4KvXWXqQkWkyVtfkM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/D9ShIYLfe4U3xQ-wbH-XAHLvh9D2xTeeY9giZkcGQMDP1r09riGtGRlx8g9Z4m0r-mYrACE7MqFIE2LKaqg-feDFZTvfumwNre7ca9iz8kvZDDmH8QDjHrKYXRLpsEUMDIdIN0hrtwARbEn5xqhfoY8OY0wbLXxD8te77-ff1A6ax04A0jEhV5JUwrTw6mdF?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/vO364kVUIYwZoTNDfUNrX1yFVuYXLsnwFfxVjnur_UPQ0zKxAjU1j5Z6BDvNiUO0tFKqF0Yzd99rB1I8vIqGRPaQeR8F9g7TdrPAfZUI4mkuUXxxFvghI-L7M01kgOuZAPEMRHb5aRBpBGvgX1rriPVj8fqahMCKyU8DsEVttnNma6n9h7OMj3ma6NkW-K_q?purpose=fullsize)
-
-在很多研究里：
-
-受试者进行：
-
-- 缓慢离心下降
-    
-- 必要时手撑地
-    
-- 再辅助回到起始位
-    
-
-研究发现：
-
-- 腘绳肌 fascicle length（肌束长度）增加
-    
-- ROM 增加
-    
-- 拉伤风险下降
-    
-
-这是目前证据最强的离心动作之一。 ([Springer](https://link.springer.com/article/10.1007/s40279-019-01178-7?utm_source=chatgpt.com "The Effect of Nordic Hamstring Exercise Intervention Volume on Eccentric Strength and Muscle Architecture Adaptations: A Systematic Review and Meta-analyses | Sports Medicine | Springer Nature Link"))
-
----
-
-# 二、RDL（Romanian Deadlift）
-
-RDL 在很多实验里也非常常见。
-
-尤其是：
-
-## Slow Eccentric RDL
-
-（慢速离心 RDL）
-
-![Image](https://images.openai.com/static-rsc-4/eEU8xbKT3nemfhP_pE6QcvBxewqMSRwCQDVoksOf1ZVspDwLNcTulkz_ziemlF93XEM-F2WnHAXmcfIEcNg25sII6xuOju98srjVF9AvKEGx2ORAE3re25zqTE4AHEUBAN_yNzqwZ42_bWAeNb0HVu98DsP6YjFqCqMIFO7PkXT-vgP2pGXpx9aykCV41bDS?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/G1p4VvTl-QBph93wxnsmMkVaS_a2wVfpF4gajcZYs4qBzuzOoZNPbC-UWnbO-jAHDEqA-wxBa6rnAMKBa5mQ4POGyTfyrJohfUUaj_yTxm7yI_stfTm-vfJ5QThbAQbI3gnq0ZiJKSs8sxr_FiPjh90QRcnSIB5Isf0-XjYHYfg0UUYD-Vv5LPVS4E_tqGDt?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/_g_TClCdS-74Tr6FtbroleJ1haaT6a8evTOLn0HcVG1Po-eh2MZuWURDY0aaHwnHAsVwF97APdLXl6fsovsmlZCshGPDh36XVdtpicgEmelW5wlncXjerKpWDIoiKV7Okrlbh1Fy5osbwV5trsrxyF1FH2k59UVD6JVaqbojyZzHyqlwIqlapGDkqLyaiuLK?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/B7c4GAQVeBUwfGjzhvGK30V-0OqgVAXqV0DCIICz-wV0GB86vbtYX1_KDKh78VGfvlBirZI6rWnvOuWHYysnUIUj6BjYZW6RYYHtRecEKxDLjAhngbv2hDJUx3IqFVgsfQYQsVeFxlnRCTOu9fVS4VZrXi6ChP1ysvbS-XAT5GA5x4-BfhCH_2Xnz4rJTaqO?purpose=fullsize)
-
-典型实验设计：
-
-- 3–5秒下降
-    
-- 髋主导
-    
-- 长位控制
-    
-- 再正常起身
-    
-
-研究者主要观察：
-
-- 腘绳肌长度
-    
-- 髋屈ROM
-    
-- 主动控制能力
-    
-
-很多研究发现：
-
-RDL 类型训练对于：
-
-- 前屈柔韧性
-    
-- 腘绳肌长度
-    
-- 主动柔韧性
-    
-
-改善明显。 ([科学直通车](https://www.sciencedirect.com/science/article/pii/S2468781222000558?utm_source=chatgpt.com "Eccentric exercise improves joint flexibility in adults: A systematic review update and meta-analysis - ScienceDirect"))
-
-甚至很多实践者会认为：
-
-> RDL 比单纯静态拉伸更容易“真正留下柔韧性”。
-
-Reddit 上很多训练者也提到：
-
-RDL 对腘绳肌柔韧性改善非常明显。 ([Reddit](https://www.reddit.com/r/Kneesovertoes/comments/137phcp?utm_source=chatgpt.com "purpose of a rdl in the atg system"))
-
----
-
-# 三、Flywheel Eccentric Training（飞轮离心）
+# Flywheel Eccentric Training（飞轮离心）
 
 这是运动科学实验室很喜欢研究的一类。
 
