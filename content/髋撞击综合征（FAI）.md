@@ -349,8 +349,8 @@ FAI 全称：
 ---
 
 # FAI 康复的核心方向
-
-现代运动康复越来越强调：
+![Image](https://images.openai.com/static-rsc-4/sn20l74RKHazXxlL4cpeYsfewt7fesJVZZe-931BGgzKoSsT1bzD3ruDe_z5gYEjYXuUG74M2E_W4lZUfIy84IXMF4kylXfD1vqZzD_neL2fbhkN0hskJdaRVp7ewwj7ReHuH8z5uED8m1qKxJzc2uwM1F4ZWmCbTrqweXp7gEKiQ9VzsYRrffQx8DAySaQV?purpose=fullsize)
+![Image](https://images.openai.com/static-rsc-4/Jw73Cj3lFF9RubNXUY01TJDQzca5jkBKalLPtWm2gQCtYeAjGGhAuUwaV8ghCFR0PJ19aRjJyA9WMWgn5oL5gxpgZNcaYtjg6CcaSA-yLb1pJTHiX3D_69Jyxee_EmVmWsIvKwa1ETzjtUz06_UT03ofRC75-R_cMW5c-RPx4V1Irw-_wg4m9JTj1pg6lT4K?purpose=fullsize)现代运动康复越来越强调：
 
 不是“继续压”。
 
@@ -411,15 +411,9 @@ FAI 全称：
 
 ---
 
-# 单腿 RDL
-
-![Image](https://images.openai.com/static-rsc-4/y-yeQGcVImh8MewcokEKVkSCJXSTWgxyI5EuNIs8hVy1etDPrHIrBcs2AInURxbPVbMwc5hdmeDe3P6ejVDYj0wgvIyH2b8OorW_6sHSzKILlza7witq2ChFgXc5fF3qP7ZQfcxksb7cM_wQCP_-A5AG-3c1AzMcr85wIQR_miNX5wE__mleRx1zzTrvwRww?purpose=fullsize)
+# [[单腿硬拉（Single Leg RDL）]]
 
 ![Image](https://images.openai.com/static-rsc-4/x8D7XSoumSqd2SNbcIN3zFqS0TW_2rUTW27m_m0S5TYxpwR9lFTvbsVVqSpXWRgz1-SUxPnyGmC-_lggoEZW6TMFjoiIPvRS7tdAnQ1Q2YMCsp6jsNXXAeXH6UkL8l15aBsfhLy85AK3yHTGaaC_oC7mqabfjgtuewZlpa7x-M5FvSy0Iv3rcr9NS82K4VE7?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/sn20l74RKHazXxlL4cpeYsfewt7fesJVZZe-931BGgzKoSsT1bzD3ruDe_z5gYEjYXuUG74M2E_W4lZUfIy84IXMF4kylXfD1vqZzD_neL2fbhkN0hskJdaRVp7ewwj7ReHuH8z5uED8m1qKxJzc2uwM1F4ZWmCbTrqweXp7gEKiQ9VzsYRrffQx8DAySaQV?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/GvZAzw82pGlP9aThl0KAr-I4P07BaxQJTMNgF6tLWM97kgsPqZjtiiTKz7Vl2xP3e6JDSXK8s0w6d7DqhhNv2ST45KznBvjdo4j1V8SuxsMKKtTtOmvT9WNzudbrFWgkFHdf534FYxESnymztcwP_4SbdUWJmxEGlUceovntBY37OnsgCORg1eoiDe3ALYjJ?purpose=fullsize)
 
 作用：
 
@@ -432,15 +426,13 @@ FAI 全称：
 
 ---
 
-# Dead Bug
+# [[死虫训练（Dead Bug）]]
 
-![Image](https://images.openai.com/static-rsc-4/LINCY4SI9s-tNipQ1_e5Y7dDVv4r36bZ6Z1pqW58KG1zLjQq6McluqR8RrLNXahG5PKBe0silj1eNyEwgH_zGq7dfqKUODoxk12mfpFqJUDoEXEMQ0mk1nLLCgNl81iVbkcDQx_pfL1DCEicV-Tn5xSwPSWPQ5koewfmyulhRu5sWOEZATY-r784Z11l9QkB?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/Jw73Cj3lFF9RubNXUY01TJDQzca5jkBKalLPtWm2gQCtYeAjGGhAuUwaV8ghCFR0PJ19aRjJyA9WMWgn5oL5gxpgZNcaYtjg6CcaSA-yLb1pJTHiX3D_69Jyxee_EmVmWsIvKwa1ETzjtUz06_UT03ofRC75-R_cMW5c-RPx4V1Irw-_wg4m9JTj1pg6lT4K?purpose=fullsize)
+
+
 
 ![Image](https://images.openai.com/static-rsc-4/ipdVM-H8Ksrz4EIGz74jF1ClgoLmap5H7hxPf4DTRc9G3sEf1tZtMs8oB3hCimtDnKElNLnhmqLoiEG2Fp-vBvzdcCOU30SuWz_RXx4UgFopnI6XGaynJfsODWYOwvzNZ-tavFfbYgNN4ZTEOqyjyethQIezOhwB49xGt6Xz6FSUOHovlLMeZTWEVYKV_e39?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/pxNZKNVyQ8KsFoONOghOfTdsNfSyj5f-Awzq5METgQsbIeG8FLf68KUZYqBio7bdQfR4tm4qiNO-Q0ZZKCg4ec6_9FP1a8iex-BFGLgZtf47yv74vh1Sp9W3gO64SxOGsRTEvXv9SdOkkVJZxukOFPI7B_ydzr3SZnGDe1eIz7oRgn4EUkUgltMCLMWiI2yT?purpose=fullsize)
 
 作用：
 
