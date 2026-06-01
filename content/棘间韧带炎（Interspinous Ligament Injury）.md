@@ -106,9 +106,9 @@
 
 如果有这些症状，需要考虑：
 
-- Lumbar Disc Herniation
+- [[腰椎间盘突出]]
     
-- Lumbar Spinal Stenosis
+- [[腰椎管狭窄症（Lumbar Spinal Stenosis）]]
     
 - 神经受压
     
@@ -125,7 +125,7 @@
 
 ![Image](https://images.openai.com/static-rsc-4/3VeoPN5-1_8hFRgEpjIdeartPxu8hGfJWWKOhL4a1dq_e7Cq6rQODnWze0OztGG--o2XMzTODYovzSGJvMwq8SBrbbuPCUxJExc3vihfkFLvoAramhQsx2GraWuHsQshOB64FnJxGqnuoVf_Mxq6v4BMe7wWJ1nkbgw9abpWAgwu59NfTYMI0ybdYeB6xJzp?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/oa3S2e7pfTFtkn1glwS_u-kv71tK6Ld6tdKyJ5RskFPg-VNnBBdDuDqRvgmOgRhBK9UPAfkedrQs9oQxqRMGKaUVnS2G9sMMHgJGhh3h-930R0Jc4A4Id5VmP5ac1YTMjKSaZieyWNmdF3_A_a_YWBCkz74qbvn5mF3XEt_uPFgUhJyGGhw3rU53fzmCsd1g?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/NKdAKLurlZdKk92kdBhHUlnAuMxEAhppHI1Zd4-NarSXt4p2DLFAuFmnlRow3nmY7QUpIQ9Kucw0eClFVXfw8FcgAbj4wcQe-F8JBBL1Nq0ZJYTerZemxQDd55vdhp_fBC-Id5KcSTx_y6ulR1HRbCpkTRB82SZI5to1wSQ1dfYoY-PHgY7yytuYDrvFASEw?purpose=fullsize)
 
@@ -259,22 +259,6 @@ MRI可见：
 
 ### 3. 核心稳定训练
 
-常用：
-
-#### Bird Dog（鸟狗式）
-
-Bird Dog
-
-#### Dead Bug（死虫式）
-
-Dead Bug
-
-#### Side Plank（侧桥）
-
-Side Plank
-
-目标：
-
 提高腰椎主动稳定性。
 
 ---
@@ -283,7 +267,7 @@ Side Plank
 
 恢复后应逐步加入：
 
-### Segmental Spine Control（脊柱节段控制）
+## [[脊柱节段控制（Segmental Spine Control）]]
 
 重点：
 
