@@ -1,6 +1,6 @@
 对于运动康复、舞蹈训练和竞技体育来说，目前的研究结论其实非常一致：
 
-> **功能链训练（Functional Training）和孤立肌肉训练（Isolated Muscle Training）不是二选一，而是互补关系。** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22784233/?utm_source=chatgpt.com "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review - PubMed"))
+>[[功能链训练（Functional Training）]]和孤立肌肉训练（Isolated Muscle Training）不是二选一，而是互补关系。** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22784233/?utm_source=chatgpt.com "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review - PubMed"))
 
 很多教练喜欢说：
 
