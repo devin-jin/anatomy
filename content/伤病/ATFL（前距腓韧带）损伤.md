@@ -349,6 +349,7 @@ ATFL 会被瞬间拉长。
 ---
 
 # 踝背屈训练 Knee to Wall
+### [[崴脚后腓骨头卡住了（Fibular Head Dysfunction）]]
 
 恢复踝活动度的重要动作。
 
@@ -400,7 +401,7 @@ ATFL 会被瞬间拉长。
 
 # [[腓骨肌训练（Peroneal Training）]]
 
-腓骨肌是踝外侧重要保护肌群。
+### [[腓骨肌松解和训练对比]]
 
 ![Image](https://images.openai.com/static-rsc-4/bq1KrYP1VcwjixZy3-OvU3-P1-gFTLtfPJ9ZwydetEHijPzA9SuCcPX3ICUs9zwe1RgAoIdcR9F9hQwe9DDQehh3ZGfGu2zyhrSclpuOk99ageU9mz82ObnFGBfR9687Q6ZwCfv3wrI_BDf6k1oldsI3L1FXzmXBtuOT7lpHgBObVhz0Aq1zkhLbjT2x8d8B?purpose=fullsize)
 
