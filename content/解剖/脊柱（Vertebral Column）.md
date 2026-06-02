@@ -297,7 +297,7 @@ Arabesque
 
 ![Image](https://images.openai.com/static-rsc-4/AuG8aDcFCo3p9Ij9dmXl2hglssnGKHl4RjdUBxdML7AY1Jv4RJAxQ1lxyh_rOdonzOyXkT-UeHhfExl7sxx6Xe8qQAlXQJebP4SHIqOgWfMIWYy6sm3apvyHDUqhTFctQkSOxK1yw1pO2zS7hrGOeAgNOfum9wT1-MNrofgApoQ9jVeGkap1sf1m5Lh572ON?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/rCfMRm3Wtv1S97ZaZF5aXq4n9ou9wAOqg5P2kg1iEwRTp27pMSFiUwm94wxT1Zw91BGvFIgVw-kL0GaKj_pfCZ5Chbv0Pwyy_4HaJqaTebgKYtcw9DbCRsWkG5847RTBpYtkjDDMEI53w4tyfTJZi1MMNC6oCrMj3mZoepLQTz5WXDPeOcaMhNFfRKBehull?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/aAHq8BLbA613Ami0RUBB4I3Rt6qt6adQrcAuAHDxN1tREOHIHbno031HYafmJk61H5o3tb3AJgJZLt6fmAzSEyrv7mQzlycmw9TDCfK0Mfz-35H6xnQJUEtd22r0cH7ZPqPOQpIsIr2rnKsvABZ6fiAp2TNnN52E3RxUuAbKcdLLj_If2HrIquwN5IXgZuOb?purpose=fullsize)
 
@@ -328,7 +328,7 @@ L1-L5
 
 ### 为什么腰椎旋转少？
 
-关节突排列接近矢状面。
+[[关节突]]排列接近矢状面。
 
 限制旋转。
 
