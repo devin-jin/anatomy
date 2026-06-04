@@ -124,6 +124,8 @@
 
 ## 2. 深筋膜（Deep Fascia）
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/b/b5/Tensor-fasciae-latae.png)
+
 位于浅筋膜更深处。
 
 通常更致密。
@@ -152,6 +154,8 @@
 ---
 
 ## 3. 肌肉内部筋膜
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/a/a2/Skeletal_muscle.png)
 
 一块肌肉不是单纯一团肉。
 
@@ -412,6 +416,8 @@ Arabesque（阿拉贝斯克）时，
 ---
 
 ## 4. 跳跃和落地
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/d/de/PlantarFascia.png)
 
 跳跃落地时，
 
