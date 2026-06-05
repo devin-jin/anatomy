@@ -28,7 +28,7 @@
 
 - Arabesque 控制
     
-- 单腿平衡
+- [[单腿平衡（Single Leg Balance）|单腿平衡]]
     
 - 跳跃落地
     

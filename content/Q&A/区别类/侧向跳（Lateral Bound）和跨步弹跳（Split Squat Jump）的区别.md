@@ -48,7 +48,7 @@
 
 ---
 
-## 跨步弹跳（Split Squat Jump）
+## [[跨步弹跳（Split Squat Jump）|跨步弹跳]]（Split Squat Jump）
 
 ### 主要是：
 
@@ -98,7 +98,7 @@
     
 - 防止膝内扣
     
-- 单腿平衡
+- [[单腿平衡（Single Leg Balance）|单腿平衡]]
     
 
 因此它非常偏：

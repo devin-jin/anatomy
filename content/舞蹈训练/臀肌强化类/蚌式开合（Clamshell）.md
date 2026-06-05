@@ -179,7 +179,7 @@ Clamshell 能帮助训练：
     
 - 跑步膝
     
-- 髌股疼痛综合征
+- [[髌股疼痛综合征（PFPS）|髌股疼痛综合征]]
     
 
 往往是因为：
@@ -266,7 +266,7 @@ Clamshell 本质是神经控制训练。
 
 ---
 
-## Side Plank Clamshell
+## [[侧桥（Side Plank）|Side Plank]] Clamshell
 
 高级版本会结合：
 
@@ -312,9 +312,9 @@ Clamshell 本质是神经控制训练。
 
 可与：
 
-- Monster Walk
+- [[怪兽走（Monster Walk）|Monster Walk]]
     
-- Lateral Band Walk
+- [[侧向弹力带行走（Lateral Band Walk）|Lateral Band Walk]]
     
 - [[单腿平衡（Single Leg Balance）]]
     

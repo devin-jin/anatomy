@@ -382,11 +382,11 @@
 
 所以现代训练会结合：
 
-- Side Plank
+- [[侧桥（Side Plank）|Side Plank]]
     
-- Hollow Body
+- [[中空支撑（Hollow Body）|Hollow Body]]
     
-- Pallof Press
+- [[帕洛夫抗旋转推举（Pallof Press）|Pallof Press]]
     
 - 单腿稳定训练
     

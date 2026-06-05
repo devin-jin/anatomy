@@ -368,7 +368,7 @@ PFPS 本质上并不只是“髌骨问题”。
 
 ---
 
-# Clamshell（蚌式开合）
+# [[蚌式开合（Clamshell）|Clamshell]]（蚌式开合）
 
 强化臀中肌与髋外旋控制。
 
@@ -393,7 +393,7 @@ PFPS 本质上并不只是“髌骨问题”。
 
 ---
 
-# 侧向弹力带行走 Lateral Band Walk
+# 侧向弹力带行走 [[侧向弹力带行走（Lateral Band Walk）|Lateral Band Walk]]
 
 恢复动态髋稳定。
 
@@ -474,7 +474,7 @@ PFPS 很多问题会在：
 
 ---
 
-# Step Down（台阶下踩）
+# [[台阶下踩训练（Step Down）|Step Down]]（台阶下踩）
 
 经典单腿控制训练。
 

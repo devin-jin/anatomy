@@ -290,7 +290,7 @@ MRI可见：
 
 ---
 
-### Backbend Slow Eccentric
+### [[慢速离心下腰（Backbend Slow Eccentric）|Backbend Slow Eccentric]]
 
 缓慢离心下腰训练。
 

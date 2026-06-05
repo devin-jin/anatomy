@@ -76,7 +76,7 @@
 
 ### 孤立训练
 
-- 蚌式开合（Clamshell）
+- [[蚌式开合（Clamshell）]]
     
 - 腿伸展（Leg Extension）
     
@@ -91,7 +91,7 @@
 
 - 单腿蹲（Single Leg Squat）
     
-- 保加利亚分腿蹲（Bulgarian Split Squat）
+- [[分腿蹲（Split Squat）|保加利亚分腿蹲]]（Bulgarian Split Squat）
     
 - 单腿罗马尼亚硬拉（Single-Leg Romanian Deadlift）
     
@@ -108,7 +108,7 @@
 
 例如：
 
-### 鸟狗式（Bird Dog）
+### [[鸟狗式（Bird Dog）]]
 
 ![Image](https://images.openai.com/static-rsc-4/NEkHPe__bZ8DMgn5_wHh-rQE_eo4J2EiEI4swSmucPaNlTElUzNN5j3h67Gw5eSuZioz-iP2txjf2jZCMOfj1NM1v-YTd97EAaYwHQ6lll54cHYCAtNjKIvzshDQEfXgUO9Eoq6UXJSXM0WdCZtaVTQBHdgAwTqSXedi8lOeVa-Iw6T4Eh91OusB6DhB-1mv?purpose=fullsize)
 
@@ -129,7 +129,7 @@
 
 例如：
 
-### 帕洛夫抗旋转推举（Pallof Press）
+### [[帕洛夫抗旋转推举（Pallof Press）]]
 
 训练：
 
@@ -171,7 +171,7 @@
 
 例如：
 
-### 星状平衡训练（Star Excursion Training）
+### [[星形平衡训练（Star Excursion）|星状平衡训练]]（Star Excursion Training）
 
 训练：
 
@@ -273,9 +273,9 @@ Regional Interdependence
 
 ### 鸟狗式（Bird Dog）
 
-### 死虫式（Dead Bug）
+### [[死虫训练（Dead Bug）|死虫式]]（Dead Bug）
 
-### 侧桥（Side Plank）
+### [[侧桥（Side Plank）]]
 
 目标：
 
@@ -289,7 +289,7 @@ Regional Interdependence
 
 ### 单腿罗马尼亚硬拉（Single-Leg Romanian Deadlift）
 
-### 台阶下踩（Step Down）
+### [[台阶下踩训练（Step Down）|台阶下踩]]（Step Down）
 
 目标：
 
@@ -326,7 +326,7 @@ Regional Interdependence
 
 ### 单腿落地（Single Leg Landing）
 
-### 跨步弹跳（Bounding）
+### [[跨步弹跳（Split Squat Jump）|跨步弹跳]]（Bounding）
 
 目标：
 

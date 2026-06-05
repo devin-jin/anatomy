@@ -388,7 +388,7 @@ F_{muscle}=f(\text{muscle length})
 
 ---
 
-# 为什么 Nordic Hamstring 很难？
+# 为什么 [[北欧挺（Nordic Hamstring）|Nordic Hamstring]] 很难？
 
 因为：
 

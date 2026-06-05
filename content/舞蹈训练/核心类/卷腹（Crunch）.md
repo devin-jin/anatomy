@@ -197,9 +197,9 @@ Crunch 只训练：
 
 - 抗伸展（Plank）
     
-- 抗旋转（Pallof Press）
+- 抗旋转（[[帕洛夫抗旋转推举（Pallof Press）|Pallof Press]]）
     
-- 抗侧弯（Side Plank）
+- 抗侧弯（[[侧桥（Side Plank）|Side Plank]]）
     
 
 所以：

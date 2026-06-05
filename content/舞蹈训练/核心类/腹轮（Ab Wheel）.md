@@ -183,7 +183,7 @@ Ab Wheel 能帮助建立：
 
 ---
 
-# Ab Wheel vs Plank vs Hollow Body
+# Ab Wheel vs Plank vs [[中空支撑（Hollow Body）|Hollow Body]]
 
 ![Image](https://images.openai.com/static-rsc-4/VV6gNStEdaORz7HMKOJR06SEqmQHN6GjK6vRJ_d3hV0XvBtsOfG7sa09hExmapOaroKbRvoXLruxHjMfeXgRrBBzK58dPOAQ7r59CsRDJzpgPZmpspvqqyiT5q0BxxKvkN3iIH6-qFRi_c7hSyJKBwZ1tnMUakl-I3Pvi-p_qml4BrttNXjKxlgPRrtxy-SS?purpose=fullsize)
 

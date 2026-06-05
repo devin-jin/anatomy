@@ -60,7 +60,7 @@
     
 - 外踝受牵拉
     
-- 前距腓韧带（ATFL）受伤
+- [[ATFL（前距腓韧带）损伤|前距腓韧带]]（ATFL）受伤
     
 
 此时腓骨会受到：
@@ -305,7 +305,7 @@ Superior Glide
 
 - 单腿站立
     
-- Star Excursion Balance Test训练
+- [[星形平衡训练（Star Excursion）|Star Excursion Balance Test]] 训练
     
 
 ### ④ 恢复腓骨肌功能
@@ -314,7 +314,7 @@ Superior Glide
     
 - 单腿提踵
     
-- 跳跃落地训练
+- [[跳跃落地训练（Landing Mechanics）|跳跃落地训练]]
     
 
 ---

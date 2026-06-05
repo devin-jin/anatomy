@@ -342,7 +342,7 @@ Pallof Press：
 
 ● 落地缓冲（landing mechanics）
 
-● 单腿平衡（single-leg balance）
+● [[单腿平衡（Single Leg Balance）|单腿平衡]]（single-leg balance）
 
 ● Pointe / relevé 控制
 

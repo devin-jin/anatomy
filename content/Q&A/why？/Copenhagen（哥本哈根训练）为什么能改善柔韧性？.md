@@ -143,7 +143,7 @@ Copenhagen 最经典的形式是：
 
 舞者大量动作依赖：
 
-- 外开（Turnout）
+- [[外开（Turnout）]]
     
 - 横叉（Middle Split）
     

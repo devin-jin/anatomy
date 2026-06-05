@@ -53,7 +53,7 @@ Relevé（法语：抬起）在舞蹈里指：
 
 ![Image](https://images.openai.com/static-rsc-4/h5HjDpYVh4FMaomyWhqLsE9gybPo6Qhad2g7AqL7Lws7ZK0FZr7_8VVsMa3Eql7HrWFQcdHp9UNstwNcCD8yupdSDZoev4bxn41PGTzXgEysgKSoIXZqs99ugTj8vLHvhHOL0DKhfTg0Wa9TbLX5MMuKXIz1evMTmJrMqTar64JTQEkO0C9RgiZqIG9co5kr?purpose=fullsize)
 
-|项目|提踵（Calf Raise）|Relevé（舞蹈）|
+|项目|[[提踵（Calf Raise）]]|Relevé（舞蹈）|
 |---|---|---|
 |目的|小腿力量|全身控制|
 |关注点|腓肠肌|足踝 + 膝 + 髋 + 核心|

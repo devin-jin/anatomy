@@ -7,7 +7,7 @@
 ![Image](https://images.openai.com/static-rsc-4/ZuAn7FCuilgQXviZdHYm8E0OeUdhf1kXA5swblCItz7fzHlDwVFUrVC86Ltztr8XoYFcNZalVLRSfN2kokLWqtzikrHJA5cXwYX6iObZQp3FxAp_gEaJ-xbCFoQVFcgqoCo2qSlbzAV5_XHt2zpBsv2OBnELH725gaYFDnUhi9rKuQbpNe6nvbSdJFZqbOkT?purpose=fullsize)
 
 弓步蹲（Lunge）是下肢训练里最经典的“动态单腿模式”之一。  
-如果说分腿蹲（Split Squat）是“固定位置的单腿控制”，那么 Lunge 更像是：
+如果说 [[分腿蹲（Split Squat）|分腿蹲]]（Split Squat）是“固定位置的单腿控制”，那么 Lunge 更像是：
 
 > **在移动中完成单腿稳定与力量转换。**
 

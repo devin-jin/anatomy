@@ -197,7 +197,7 @@
 
 ● 腓骨肌反应能力
 
-# ⑥ Monster Walk / 侧向弹力带走
+# ⑥ [[怪兽走（Monster Walk）|Monster Walk]] / 侧向弹力带走
 
 很多人不知道这也会练到腓骨长肌。
 
@@ -253,7 +253,7 @@
 
 ## 动态
 
-● Star Excursion × 5方向
+● [[星形平衡训练（Star Excursion）|Star Excursion]] × 5方向
 
 ● 侧向跳稳定 × 10
 

@@ -73,7 +73,7 @@
 
 - 颅骨 Skull
     
-- 脊柱 Vertebral Column
+- [[脊柱（Vertebral Column）|脊柱]] Vertebral Column
     
 - 肋骨 Ribs
     
@@ -155,9 +155,9 @@ Sacral Kyphosis
 
 容易导致：
 
-- 腰肌劳损
+- [[腰肌劳损]]
     
-- 椎弓峡部裂（Spondylolysis）
+- [[椎弓峡部裂（Lumbar Spondylolysis）|椎弓峡部裂]]（Spondylolysis）
     
 - 椎间盘问题
     

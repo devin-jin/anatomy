@@ -232,7 +232,7 @@ turnout 受很多因素共同影响。
 
 ---
 
-# 外开桥（Turnout Bridge）
+# [[外开桥（Turnout Bridge）]]
 
 ![Image](https://images.openai.com/static-rsc-4/fjNm-YteR7TnVB0CWZlHCfw40sMZtOYaI2L4lYV2OeEBJMRwh_4u8InbEERzLh_pwuk-3gqWv1qpmp4naYcnkJuwWF81vHz0pmnPJZXjGP17Vxvx92SeAjOWh0-XHGwUPyHJlkV4EprcxXUjCpq8kOl1d48fpJT3JYU_VUdL3WtAKSU2TXaJ_ReH4O7U9_6u?purpose=fullsize)
 

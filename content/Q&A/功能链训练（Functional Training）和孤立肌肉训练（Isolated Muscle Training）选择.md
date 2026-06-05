@@ -29,8 +29,8 @@
 |中文|English|
 |---|---|
 |腘绳肌弯举|Hamstring Curl|
-|蚌式开合|Clamshell|
-|提踵|Calf Raise|
+|[[蚌式开合（Clamshell）|蚌式开合]]|Clamshell|
+|[[提踵（Calf Raise）|提踵]]|Calf Raise|
 |髋外展机|Hip Abduction Machine|
 |腿伸展|Leg Extension|
 
@@ -63,11 +63,11 @@
 |中文|English|
 |---|---|
 |单腿蹲|Single Leg Squat|
-|保加利亚分腿蹲|Bulgarian Split Squat|
+|[[分腿蹲（Split Squat）|保加利亚分腿蹲]]|Bulgarian Split Squat|
 |单腿罗马尼亚硬拉|Single Leg Romanian Deadlift|
 |侧向跳|Lateral Hop|
-|星状平衡测试训练|Star Excursion Training|
-|鸟狗式|Bird Dog|
+|[[星形平衡训练（Star Excursion）|星状平衡测试训练]]|Star Excursion Training|
+|[[鸟狗式（Bird Dog）|鸟狗式]]|Bird Dog|
 
 目标：
 
@@ -94,7 +94,7 @@
 
 例如：
 
-- 髌股疼痛综合征
+- [[髌股疼痛综合征（PFPS）|髌股疼痛综合征]]
     
 - 前交叉韧带重建术后
     
@@ -174,7 +174,7 @@
     
 - 农夫行走
     
-- 单腿训练
+- [[单腿训练（Single-Leg Training）|单腿训练]]
     
 
 ---
@@ -183,7 +183,7 @@
 
 对于你比较关注的：
 
-- 外开（Turnout）
+- [[外开（Turnout）]]
     
 - 柔韧性
     
@@ -224,11 +224,11 @@
 
 例如：
 
-- 怪兽走（Monster Walk）
+- [[怪兽走（Monster Walk）]]
     
 - 保加利亚分腿蹲（Bulgarian Split Squat）
     
-- 单腿硬拉（Single Leg Romanian Deadlift）
+- [[单腿硬拉（Single Leg RDL）|单腿硬拉]]（Single Leg Romanian Deadlift）
     
 
 ---
@@ -280,11 +280,11 @@
 
 1. 蚌式开合（Clamshell）
     
-2. 弹力带外旋（Band External Rotation）
+2. [[外旋弹力带训练（Band External Rotation）|弹力带外旋]]（Band External Rotation）
     
-3. 外开桥（Turnout Bridge）
+3. [[外开桥（Turnout Bridge）]]
     
-4. 站立外开控制（Standing Turnout Control）
+4. [[站立外开控制（Standing Turnout Control）]]
     
 5. 单腿外开控制（Single-Leg Turnout Control）
     

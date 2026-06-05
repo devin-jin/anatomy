@@ -346,7 +346,7 @@
 
 ---
 
-## Side Plank Clamshell
+## Side Plank [[蚌式开合（Clamshell）|Clamshell]]
 
 结合：
 
@@ -374,7 +374,7 @@
     
 - 侧桥下沉抬起
     
-- Copenhagen Plank
+- [[哥本哈根支撑（Copenhagen Plank）|Copenhagen Plank]]
     
 
 会进一步增加动态控制需求。

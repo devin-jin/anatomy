@@ -369,7 +369,7 @@
 
 例如：
 
-- 单腿训练
+- [[单腿训练（Single-Leg Training）|单腿训练]]
     
 - Farmer Carry
     

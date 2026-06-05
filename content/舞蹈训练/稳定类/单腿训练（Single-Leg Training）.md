@@ -113,7 +113,7 @@
 
 - 平衡反应速度
     
-- 微调能力（Proprioception）
+- 微调能力：[[本体感觉训练（Proprioception）|本体感觉]]（Proprioception）
     
 
 ---

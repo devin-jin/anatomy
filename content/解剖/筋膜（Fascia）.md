@@ -300,7 +300,7 @@ Arabesque（阿拉贝斯克）时，
 
 它可以参与：
 
-- 本体感觉（Proprioception）
+- [[本体感觉训练（Proprioception）|本体感觉]]（Proprioception）
     
 - 疼痛感知
     
@@ -634,4 +634,3 @@ Arabesque（阿拉贝斯克）时，
 而是：
 
 > 让组织在动作中滑得开、传得动、稳得住。
-
