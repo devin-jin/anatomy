@@ -14,7 +14,6 @@
 
 ![Image](https://images.openai.com/static-rsc-4/EWIOAuWJIuL8-Uzc-EfiLszUhvkfvBQ6wx1MPciQWCAIkFFEiprdp4uh1sey53RKPdAfSj6imTDm7qj0Mw-zy1Q-1xrhscuHIBq-4_jEyvwJhSWVfeAseHsjpJY7hu30t932LqGC38nkUcqimI63yGmDWbnpwoDON7O0VNPskyPJSExSzpU92-l8J6A9ABYP?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/nhy7ki_ijPJ6l0jsW0b6D7KiVbRZ13VbQTcYL4p-16Xk4yzLcZ474bWEhYB5L00M2CVzY7OucVYzQ4sGUWsYBq7NRENPFIvMuQObNNDTzJAEkwoH3jDVJcZJF0LvoJf-zmrQMSQ-OSx4_pqbja4Opprz21xVtVtDE194WNUKn5724oHCJiRhv2_3cz3m-Mg0?purpose=fullsize)
 
 人体共有约206块骨骼。
 
@@ -84,7 +83,7 @@
 
 ---
 
-# 一、脊柱（Vertebral Column）
+# 一、[[脊柱（Vertebral Column）]]
 
 脊柱是舞蹈动作最重要的结构之一。
 
