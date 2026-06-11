@@ -480,7 +480,7 @@ Greater Trochanter
 
 ![Image](https://images.openai.com/static-rsc-4/hdCwVXiohNavWvpRvb2gzYjSKeSmMZgjRClwyqXlg6658LHZP9KQtYOrZDvoTr2QSc8aO5ZN63Jg64xrmjDPb0tp9hjPqvCkUBIQQc7sYKA-Q8YJWq2Ps0IIS6MpyqY_NQEA2C1H2AkRC6bHkFAgjIPnC6A-Jld8Cvnimu4UzDfj1yyA-MAn7e3sjGggMwiP?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/hdCwVXiohNavWvpRvb2gzYjSKeSmMZgjRClwyqXlg6658LHZP9KQtYOrZDvoTr2QSc8aO5ZN63Jg64xrmjDPb0tp9hjPqvCkUBIQQc7sYKA-Q8YJWq2Ps0IIS6MpyqY_NQEA2C1H2AkRC6bHkFAgjIPnC6A-Jld8Cvnimu4UzDfj1yyA-MAn7e3sjGggMwiP?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/GDcKPII_LLKhcRmfR6o4HnZ4Ud1_SCyrLF-OC1T_wPKXatd_pfusRGyVYP5xdYu0an_-AY0En894z159-XB42pezXi6KjzrrcfZ2iyX8Pd1oa6Z0dkRpsFdkGWaUjD0m9vFOYnInAk9n-cPMgx3Fuknm42_4_adMjZt63S3AX9CCpTNpfH5XtA_Ed5QsrDgd?purpose=fullsize)
 
