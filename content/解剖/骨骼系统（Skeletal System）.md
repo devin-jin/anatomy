@@ -87,7 +87,7 @@
 
 ![Image](https://images.openai.com/static-rsc-4/_HVhg5ZIvLfi0mtggnNzcVGNRrFwUoGfrtQb-jAxTmpWpoMHbWS5aTpE0VEAu2OgtKxJY1xiwu5jTVg86iVcYbs_u1c9qfMIRHDodWL4cwN2jnFlhYMJcnA7X9RTyoTK2_LnfgBIgxs0X_paa0-HT-n6qqNhAmp7dG5m6bEbUdkfgEelGFjtHLQrLoauka02?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/pC48CNZU09bXeNlMeaAAlcqwNEAc33WMc76OoKGiR4M9nlRsEsf8V7Y5cEqBJhezjF9ElffanOmgBKJ3LMZ_mkpn8KFv52EOxnqAOhO8WOQmEhX1QM32qXGAxY-vfzb0t1EZHaxFx-9dlH8W0DFt4ubUFvDxZrn7hb7wByYFD3tXTHfD6pREib_TWxFMJAh0?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/5jJYDdOvfRrtkMOrpQGYMwLJgEAF_87KtFs7wVvJNotdRdh2h2DIRQ0vReI_eCGK35acntOdVqqHvWJpAuReQvkHGyWowq0EBWYd2S9lSssnpBQVNJ3_Dt4s91OPlORtOLwZccEwEVGIRxhJ2sz9-9jdUh9TrZUQYzV_ra4Ha5WZrA0PGaaRDX42K4a74Rl2?purpose=fullsize)
 
@@ -140,61 +140,15 @@ Sacral Kyphosis
 
 ---
 
-## 对运动训练的重要性
-
-### 桥式后伸（Bridge Extension）
-
-主要来源：
-
-- 胸椎伸展
-    
-- 髋关节伸展
-    
-
-而非腰椎过度代偿。
-
-错误方式：
-
-腰椎承担过多后伸
-
-容易导致：
-
-- [[腰肌劳损]]
-    
-- [[椎弓峡部裂（Lumbar Spondylolysis）|椎弓峡部裂]]（Spondylolysis）
-    
-- 椎间盘问题
-    
-
----
-
-### 旋转动作
-
-例如：
-
-- Pirouette（挥鞭转）
-    
-- Fouetté（挥鞭转）
-    
-
-需要：
-
-- 胸椎旋转能力
-    
-- 核心稳定
-    
-
----
-
 # 二、胸廓（Thoracic Cage）
 
 ![Image](https://images.openai.com/static-rsc-4/2fnOYlxHFjy2xViFLqDlxvVJ4Mj6KE4nb-Bhm-xCF3SHUblPeLtrry9I3j7UIiHh6WpjAd7oSeuEwQi1ZqWj4VsR1oJd3I3dF6XTxDOwRQmHWt_bRsoImVNqkdqY-ej_jcQKDk24It_cpaSGI3c9tYL1mdbZ6yWhle-62HqfhpmCWYTMqgOIafrYSr8JHA3N?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/6kTHTrh6KMwkOplfAKvpkFsqhXpjW1DidvUoAtfWXNNX-MZKz52YO5tVxZyT_nbHwEZKcWoLB7DTzedwYkBipIgqf_QeON8CEI5p2a6oyX5DYiU_7lVaEa8Mp-lPC0wTFK8dmM1yypghgsr2E3vEN9kP3dve84OjpZE8EpJKXlVjIY6t2_MGpnuyLmWSq8RG?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/2fnOYlxHFjy2xViFLqDlxvVJ4Mj6KE4nb-Bhm-xCF3SHUblPeLtrry9I3j7UIiHh6WpjAd7oSeuEwQi1ZqWj4VsR1oJd3I3dF6XTxDOwRQmHWt_bRsoImVNqkdqY-ej_jcQKDk24It_cpaSGI3c9tYL1mdbZ6yWhle-62HqfhpmCWYTMqgOIafrYSr8JHA3N?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/oLNKm8Yoxex9CrKbb5Ct_W4QZ3H3q9Il-Qu1FDAZDB8v5aYFZ_HvMrHWMKjQxCDkUKTx3ykdYvhQflsU17HtjooN0TSoa1H5i8XhVvM17bmfsoRhdxKtCo3c6UBtdwAMIxANw3IzEYOfp7G0klHs7xN2IjhIEKsJMrTsvRCLnEdOo2TJBwKJ5twZ2nNlHTLX?purpose=fullsize)
+
+
+
 
 组成：
 
@@ -239,8 +193,6 @@ Sacral Kyphosis
 ### 上肢表现力
 
 胸廓位置影响：
-
-- Port de Bras（手臂动作）
     
 - 肩胛骨运动
     
