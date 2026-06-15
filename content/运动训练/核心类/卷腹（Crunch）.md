@@ -1,4 +1,4 @@
-[[运动训练者需要核心稳定性，那还需要练卷腹吗]]
+[[运动训练核心稳定性需要练卷腹吗]]
 
 ![Image](https://images.openai.com/static-rsc-4/MmdI9qFDLwfWcnbekn1u83Io8fNc6n6B3ghbyd0KWQrGi2uQeEFaDwMTeEEf6ULQ_hdCWPqKHgob7XYDBu0uej7EEKj08qfjIWtm_pb4-EJeYcGgL8vOnUWOitFoumxdDptFZg1DiywwWSOcqK-lF-Lx-IOgzf23UVq_YnwOinAJFnH-_kdpUkMBro3ziCH8?purpose=fullsize)
 
