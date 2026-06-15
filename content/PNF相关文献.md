@@ -1,16 +1,16 @@
-下面是**目前“舞者 + PNF（本体感觉神经肌肉促进）拉伸”相关的真实研究文献**（以实验研究 + 舞者人群为主），我帮你整理成“可以直接引用”的版本，并顺带标注结论强弱。
+下面是**目前“运动训练者 + PNF（本体感觉神经肌肉促进）拉伸”相关的真实研究文献**（以实验研究 + 运动训练者人群为主），我帮你整理成“可以直接引用”的版本，并顺带标注结论强弱。
 
 ---
 
-# 🧪 一、舞者直接相关的 PNF 研究（核心证据）
+# 🧪 一、运动训练者直接相关的 PNF 研究（核心证据）
 
-## 1. PNF vs 静态拉伸 vs 动态拉伸（舞者）
+## 1. PNF vs 静态拉伸 vs 动态拉伸（运动训练者）
 
-Proprioceptive Neuromuscular Facilitation 在舞者中的急性效应研究：
+Proprioceptive Neuromuscular Facilitation 在运动训练者中的急性效应研究：
 
 **研究设计：**
 
-- 24名大学现代舞舞者
+- 24名大学现代舞运动训练者
     
 - 对比：PNF / 静态拉伸 / 动态拉伸
     
@@ -28,20 +28,20 @@ Proprioceptive Neuromuscular Facilitation 在舞者中的急性效应研究：
 
 📌结论：
 
-> PNF是舞者中“提高短期柔韧性最有效的方法之一”，且不会损害表现
+> PNF是运动训练者中“提高短期柔韧性最有效的方法之一”，且不会损害表现
 
 📚来源：  
-([Nature](https://www.nature.com/articles/s41598-025-00027-0?utm_source=chatgpt.com "Time-dependent effects of acute stretching on power, balance, and flexibility in contemporary dancers: a randomized crossover trial | Scientific Reports"))
+([Nature](https://www.nature.com/articles/s41598-025-00027-0?utm_source=chatgpt.com "Time-dependent effects of acute stretching on power, balance, and flexibility in contemporary high-flexibility athletes: a randomized crossover trial | Scientific Reports"))
 
 ---
 
-# 🩰 二、芭蕾舞者研究（经典研究）
+# 🩰 二、高柔韧专项运动训练者研究（经典研究）
 
-## 2. 芭蕾舞者髋内收肌柔韧性（PNF vs 静态）
+## 2. 高柔韧专项运动训练者髋内收肌柔韧性（PNF vs 静态）
 
 **研究对象：**
 
-- 女芭蕾舞者（有多年训练经验）
+- 女高柔韧专项运动训练者（有多年训练经验）
     
 
 **干预：**
@@ -65,13 +65,13 @@ Proprioceptive Neuromuscular Facilitation 在舞者中的急性效应研究：
 > PNF ≈ 静态拉伸（长期效果类似，但PNF更高效）
 
 📚来源：  
-([Sage Journals](https://journals.sagepub.com/doi/10.1177/1089313X1101500406?icid=int.sj-abstract.similar-articles.6&utm_source=chatgpt.com "Immediate Effect of Static and Proprioceptive Neuromuscular Facilitation Stretching on Hip Adductor Flexibility in Female Ballet Dancers - Ercole C. Rubini, Andréa C. Souza, Mônica L. Mello, Reury F. P. Bacurau, Leonardo R Cabrai, Paulo T. V. Farinatti, 2011"))
+([Sage Journals](https://journals.sagepub.com/doi/10.1177/1089313X1101500406?icid=int.sj-abstract.similar-articles.6&utm_source=chatgpt.com "Immediate Effect of Static and Proprioceptive Neuromuscular Facilitation Stretching on Hip Adductor Flexibility in Female high-flexibility sport High-flexibility sportrs - Ercole C. Rubini, Andréa C. Souza, Mônica L. Mello, Reury F. P. Bacurau, Leonardo R Cabrai, Paulo T. V. Farinatti, 2011"))
 
 ---
 
-# 🧠 三、运动科学综述结论（舞者适用）
+# 🧠 三、运动科学综述结论（运动训练者适用）
 
-多篇系统综述（运动员 + 芭蕾 + 体操）一致结论：
+多篇系统综述（运动员 + 高柔韧专项 + 体操）一致结论：
 
 ## 3. ROM提升效果排序（急性）
 
@@ -101,9 +101,9 @@ PNF ≥ 静态拉伸 ≥ 动态拉伸
 
 ---
 
-# 🧬 四、机制类研究（为什么舞者有效）
+# 🧬 四、机制类研究（为什么运动训练者有效）
 
-PNF在舞者中的作用机制主要不是“拉长肌肉”，而是：
+PNF在运动训练者中的作用机制主要不是“拉长肌肉”，而是：
 
 ## 1. 神经系统抑制（更关键）
 
@@ -114,7 +114,7 @@ PNF在舞者中的作用机制主要不是“拉长肌肉”，而是：
 
 ## 2. 末端范围力量激活
 
-舞者很关键的一点：
+运动训练者很关键的一点：
 
 > 在“极限ROM下还能发力”
 
@@ -133,11 +133,11 @@ PNF会训练：
 
 ---
 
-# 🩻 五、舞蹈研究中一个关键发现（很重要）
+# 🩻 五、运动训练研究中一个关键发现（很重要）
 
 Active range of motion研究显示：
 
-> 舞者的“主动柔韧性提升”往往比被动柔韧性更影响动作质量
+> 运动训练者的“主动柔韧性提升”往往比被动柔韧性更影响动作质量
 
 PNF的价值在于：
 
@@ -146,16 +146,16 @@ PNF的价值在于：
 - 比纯静态拉伸更“功能化”
     
 
-📚来源（舞者力量 vs 拉伸对ROM对比）：  
-([PubMed](https://pubmed.ncbi.nlm.nih.gov/23439346/?utm_source=chatgpt.com "A comparison of strength and stretch interventions on active and passive ranges of movement in dancers: a randomized controlled trial - PubMed"))
+📚来源（运动训练者力量 vs 拉伸对ROM对比）：  
+([PubMed](https://pubmed.ncbi.nlm.nih.gov/23439346/?utm_source=chatgpt.com "A comparison of strength and stretch interventions on active and passive ranges of movement in high-flexibility athletes: a randomized controlled trial - PubMed"))
 
 ---
 
-# 🧾 六、总结（基于所有舞者文献）
+# 🧾 六、总结（基于所有运动训练者文献）
 
 ## ✔ 已被证实的结论
 
-PNF对舞者：
+PNF对运动训练者：
 
 - ✅ 提高关节活动度（明确有效）
     
@@ -180,7 +180,7 @@ PNF不是：
 
 ---
 
-# 🩰 给舞者的实用结论
+# 🩰 给运动训练者的实用结论
 
 如果你的目标是：
 
@@ -188,7 +188,7 @@ PNF不是：
 
 → PNF + 静态拉伸最有效
 
-### 🎯 控腿 / Developpé / Battement
+### 🎯 控腿 / 主动抬腿控制 / 动态摆腿
 
 → PNF + 主动抬腿训练更关键
 
@@ -200,11 +200,11 @@ PNF不是：
 
 # 🧠 一句话总结
 
-**现有舞者研究一致支持：PNF能显著提高舞者的关节活动度（尤其髋关节和腘绳肌），其效果在短期内通常不逊于甚至略优于静态拉伸，并且不会影响运动表现，但长期柔韧性提升仍需结合力量与主动控制训练。**
+**现有运动训练者研究一致支持：PNF能显著提高运动训练者的关节活动度（尤其髋关节和腘绳肌），其效果在短期内通常不逊于甚至略优于静态拉伸，并且不会影响运动表现，但长期柔韧性提升仍需结合力量与主动控制训练。**
 
 ---
 
 如果你想，我可以帮你做一张：
 
-👉「舞者柔韧性训练证据地图（静态 / 动态 / PNF / 离心 / 控腿）」  
+👉「运动训练者柔韧性训练证据地图（静态 / 动态 / PNF / 离心 / 控腿）」  
 会把所有文献级别的效果一次性给你排清楚。

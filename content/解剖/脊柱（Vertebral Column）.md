@@ -1,9 +1,9 @@
 
-## 舞蹈解剖学重点章节
+## 运动解剖学重点章节
 
-脊柱是人体的中轴结构，也是舞者完成下腰、旋转、平衡、控腿、跳跃等技术动作的核心基础。
+脊柱是人体的中轴结构，也是运动训练者完成桥式后伸、旋转、平衡、控腿、跳跃等技术动作的核心基础。
 
-许多舞者认为脊柱只是“弯曲”和“伸展”，实际上脊柱最大的作用是：
+许多运动训练者认为脊柱只是“弯曲”和“伸展”，实际上脊柱最大的作用是：
 
 > **在保持稳定的同时允许适量运动。**
 
@@ -208,7 +208,7 @@ Nucleus Pulposus
 
 ---
 
-### 舞蹈意义
+### 运动训练意义
 
 例如：
 
@@ -223,7 +223,7 @@ Nucleus Pulposus
 
 # 二、胸椎（Thoracic Spine）
 
-## 舞者最容易忽视的区域
+## 运动训练者最容易忽视的区域
 
 ![Image](https://images.openai.com/static-rsc-4/MV60X2fjOVn5EgeWgx0sqFSSD6gs0BzLfnwilWQnuidi_4k15vkifUqEyRMFpr396SgNRACXkV4CCLOxdvyMeD655ohDn4WLCKK3nefPxkfXW8y7X61F5eEbYrzPzbzBpH2wXW8erUXGyRy_joh5wbLysInow5G98N5-TY099Uh6BEJYacSlKOPHukciABKG?purpose=fullsize)
 
@@ -261,11 +261,11 @@ T1-T12
 
 ---
 
-## 对舞蹈的重要意义
+## 对运动训练的重要意义
 
-### 下腰
+### 桥式后伸
 
-很多舞者下腰时：
+很多运动训练者桥式后伸时：
 
 ❌ 腰椎承担过多后伸
 
@@ -277,9 +277,9 @@ T1-T12
 
 ---
 
-### 阿拉贝斯克
+### 后伸抬腿
 
-Arabesque
+Back Leg Extension
 
 胸椎伸展能力不足时：
 
@@ -335,11 +335,11 @@ L1-L5
 
 ---
 
-## 舞蹈中的常见误区
+## 运动训练中的常见误区
 
 很多人认为：
 
-下腰越深越好。
+桥式后伸越深越好。
 
 实际上：
 
@@ -411,7 +411,7 @@ Sacroiliac Joint（SI Joint）
 
 ### 伸展（Extension）
 
-下腰
+桥式后伸
 
 桥
 
@@ -431,9 +431,9 @@ Sacroiliac Joint（SI Joint）
 
 ---
 
-# 舞蹈动作中的脊柱协同
+# 运动动作中的脊柱协同
 
-## 下腰（Backbend）
+## 桥式后伸（Bridge Extension）
 
 理想分配：
 
@@ -446,7 +446,7 @@ Sacroiliac Joint（SI Joint）
 
 这不是固定比例，但体现了一个原则：
 
-> 下腰不应主要依赖腰椎。
+> 桥式后伸不应主要依赖腰椎。
 
 ---
 
@@ -465,7 +465,7 @@ Sacroiliac Joint（SI Joint）
 
 ---
 
-## Arabesque（阿拉贝斯克）
+## Back Leg Extension（后伸抬腿）
 
 需要：
 
@@ -482,7 +482,7 @@ Sacroiliac Joint（SI Joint）
 
 ---
 
-# 舞者最常见脊柱问题
+# 运动训练者最常见脊柱问题
 
 |问题|英文|
 |---|---|
@@ -493,8 +493,8 @@ Sacroiliac Joint（SI Joint）
 |脊柱侧弯|Scoliosis|
 |胸椎僵硬|Thoracic Hypomobility|
 
-对于舞者和艺术体操运动员来说，最值得关注的并不是“腰不够软”，而是：
+对于运动训练者和艺术体操运动员来说，最值得关注的并不是“腰不够软”，而是：
 
 > **胸椎活动度不足 + 髋关节活动度不足 + 腰椎过度代偿。**
 
-这是很多长期腰痛、反复崴腰、下腰疼痛和椎弓峡部应力损伤背后的共同机制。
+这是很多长期腰痛、反复崴腰、桥式后伸疼痛和椎弓峡部应力损伤背后的共同机制。

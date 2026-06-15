@@ -181,7 +181,7 @@ F_{muscle}=f(\text{muscle length})
 
 ---
 
-## 2. 高抬腿时踢腿无力
+## 2. 高抬腿时动态摆腿无力
 
 髋已经高度屈曲：
 
@@ -343,7 +343,7 @@ F_{muscle}=f(\text{muscle length})
 
 # 例如：
 
-## 舞蹈 développé
+## 运动训练 développé
 
 为什么：
 

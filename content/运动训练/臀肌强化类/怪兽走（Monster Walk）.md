@@ -1,0 +1,22 @@
+## 多方向髋控制
+
+![https://images.openai.com/static-rsc-4/AXHbuiVwNxu3OSdMGHXa1xvfy8TCw3HqZz0DyWa0LEc0wqyQf2N5bf5LPC_-UuBqPgdmUctTqLXbyy9_SZ0Rjw-DaxrzlwP-NgYzN_XJ6k1moMDNXDIlVlsE88solzVVKEeC1jfbu7V31k7BOF3hmdfDh6z9J4d3RL6MssJHaNgdntmDaPYL0P2TclZPu_Jy?purpose=fullsize](https://images.openai.com/static-rsc-4/yUoYqktdKt5MGb5ur9MxdS2PMyisZG9JIKnh112T1ryK5B_vVywHnX7u6ZI7kEUI7t2rKmRQmc7FjjQePoc8r_FTjHHwTPBeXuQ88E4ahKnXl1FM8Cya_UbYQL3UT0UsRQG2k5l99yJmKLINjVHC2C9DE0g61AJq8fMA7u8NM3A?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/gegDsT-UCdcj4-K2GwMvEJXq9s122s5Pt76GGEwE-7KsEFbq4DO4g1gPKc5RiZN-SfMfDL6EAXXjYt7kOv9JCX0WdQwaepcwX4N6lWiFUgcuq8lVxKhnSOQoRpmF59YepvG8GBoaLxelqO6gzu_T91fzNwArYWyZri2TQGeSDrV_MNS4OWhm5roubu3P2GJm?purpose=fullsize](https://images.openai.com/static-rsc-4/AELL8yXbEvTb48JXWrFOfOVHwR0JGYz0MKirhdhkZaCITY22FY-2UBnP-Fw13dYVRbdKKYkLwx0DAyJff7LwIu3rkzGg98_bDPzijxnV3VjgrrtMU-AP0rM0SbFV7r45oRckeLk20SNi2f5GHh40gKIftqiYiFqliZYDYG74XGc?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/BfEtCfL0xSIFHR5p2JHnQnsPUkyAB7a0F1sfhYV6pbVlQcgMiD_3NjYV17gtUFLcSXdMMVwwU7If7LsczUhC_7VNmSdKsKhpSakZVzc-2QVG5_qo9CtHQ3IPpAzUi4X6klR_PGFk7cu5iuc372vqvHTX_Ishe0a2RXV5xMbdpfqWRVmGEPQQlWnT4SMe7VrF?purpose=fullsize](https://images.openai.com/static-rsc-4/aNnZbZOUD-UcZE10wo-3uqMXY9HdC-qU6zsTQUlaO4OX529IhDRjLqVmj6-XyHkJJnLVNRJGaZhiRJlPNglaBn_8_DUrgX9pXRB0WLz-kbU_VCGt35NTmYwDYUaK9ldkW-YP_XSQ5LLQSlEwYwTAfsBCv0GrARS6QlkhOZAvQAQ?purpose=inline)
+
+怪兽走可以看作是“升级版侧走”，加入前进与斜向控制，更接近运动训练中的移动需求。
+
+### 动作要点：
+
+- 半蹲姿势保持
+- 弹力带持续张力
+- 前进/斜前/斜后小步移动
+- 躯干保持稳定不过度前倾
+
+### 训练意义：
+
+- 提升多方向髋稳定能力
+- 增强动态髋外旋控制控制
+- 提高运动中抗干扰能力

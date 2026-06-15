@@ -1,0 +1,11 @@
+### Hip External Rotation bridge 示范
+
+![https://images.openai.com/static-rsc-4/GC8gKxof7ATAdYH9ned1eMSFgLgBpyUa0-cuCSg4YBPDxlYx0uojbNmHo_thgGHBMDyjqORHm4M0VYowjbnJ4x5a686ymwG0KFG0tnzqeLKlxG0k1enMxN0yk-AJs8ObNid3uldIsU_wB9uiP_mQg0WFBtKN0eLpHBlsm61YLEWZSmqr_9yqrOts1jExL4be?purpose=fullsize](https://images.openai.com/static-rsc-4/2QYfcllNPhBN33b_iBIGEtIvYTpe3PLuMsejbq4uQUvUxEcsrRccPXbeFhb34lzVKqVq7TflrpH931grfdyJjZS_q9QMxJEU3okabLTvsIcGOj5M7Cv5llf4z8eMMflgPhe75znnJrgXwmQhjRZVArYA0dObrcuaGwhoU98zoUk?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/fjNm-YteR7TnVB0CWZlHCfw40sMZtOYaI2L4lYV2OeEBJMRwh_4u8InbEERzLh_pwuk-3gqWv1qpmp4naYcnkJuwWF81vHz0pmnPJZXjGP17Vxvx92SeAjOWh0-XHGwUPyHJlkV4EprcxXUjCpq8kOl1d48fpJT3JYU_VUdL3WtAKSU2TXaJ_ReH4O7U9_6u?purpose=fullsize](https://images.openai.com/static-rsc-4/iDdgCtV8Ih1rMAkN_xd5s7RTFvQh1Uuo41wNKwUtdqsTqOF4rOXfLC-mtXg6XeXh5SW7yiIcdajCWUEbr9OmLsoIpOJW2vUshJy8lol96TGngMY6Wwp7yygemLOZkktAi6tBdd02elSCThYAuLFilmOkouKPagQB7D7QvHWzLd0?purpose=inline)
+
+重点：
+
+- 抬桥时保持髋外旋控制
+- 不塌腰
+- 感受臀部发力

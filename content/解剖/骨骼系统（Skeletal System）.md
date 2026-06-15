@@ -1,8 +1,8 @@
 
 
-骨骼系统是舞蹈动作的基础框架。肌肉负责产生力量，关节负责产生运动，而骨骼决定了身体能够达到的运动范围上限。
+骨骼系统是运动动作的基础框架。肌肉负责产生力量，关节负责产生运动，而骨骼决定了身体能够达到的运动范围上限。
 
-对于舞者来说，很多技术动作并不仅仅取决于柔韧性，而是受到骨骼结构的天然限制。例如外开（Turnout）、控腿（Développé）、阿拉贝斯克（Arabesque）等动作，都与骨骼形态密切相关。
+对于运动训练者来说，很多技术动作并不仅仅取决于柔韧性，而是受到骨骼结构的天然限制。例如髋外旋控制（Hip External Rotation Control）、控腿（主动抬腿控制）、后伸抬腿（Back Leg Extension）等动作，都与骨骼形态密切相关。
 
 ---
 
@@ -85,7 +85,7 @@
 
 # 一、[[脊柱（Vertebral Column）]]
 
-脊柱是舞蹈动作最重要的结构之一。
+脊柱是运动动作最重要的结构之一。
 
 ![Image](https://images.openai.com/static-rsc-4/_HVhg5ZIvLfi0mtggnNzcVGNRrFwUoGfrtQb-jAxTmpWpoMHbWS5aTpE0VEAu2OgtKxJY1xiwu5jTVg86iVcYbs_u1c9qfMIRHDodWL4cwN2jnFlhYMJcnA7X9RTyoTK2_LnfgBIgxs0X_paa0-HT-n6qqNhAmp7dG5m6bEbUdkfgEelGFjtHLQrLoauka02?purpose=fullsize)
 
@@ -138,13 +138,13 @@ Sacral Kyphosis
 
 骨性标志（Bony Landmarks）是骨骼表面可见或可触及的解剖结构，是肌肉、韧带、肌腱附着的重要部位，也是临床评估、运动分析、康复治疗和体表定位的重要依据。
 
-对于舞蹈解剖、运动康复和脊椎治疗（Chiropractic）来说，掌握骨性标志是学习肌肉和关节的基础。
+对于运动解剖、运动康复和脊椎治疗（Chiropractic）来说，掌握骨性标志是学习肌肉和关节的基础。
 
 ---
 
-## 对舞蹈的重要性
+## 对运动训练的重要性
 
-### 下腰（Backbend）
+### 桥式后伸（Bridge Extension）
 
 主要来源：
 
@@ -225,7 +225,7 @@ Sacral Kyphosis
 
 ---
 
-## 舞蹈意义
+## 运动训练意义
 
 ### 呼吸控制
 
@@ -270,7 +270,7 @@ Sacral Kyphosis
 
 # 一、骨盆（Pelvis）
 
-骨盆是舞蹈解剖的核心。
+骨盆是运动解剖的核心。
 
 ![Image](https://images.openai.com/static-rsc-4/gfSiZMbBhUKRReDIrGmxUIvxdO8X1c9md3M9Pv4WJHRXtLLBMu6aHRBtvcDm7iwFpkvmilnT1F_wVM_7vDHkHf_Bb892l1gJc-9a1XmBIGLxn-tcwJKHmW13B0_LJvKCh8kWsJRih6BbliAMpZxjJ54icWjdqEgd1FdFoWu_h1HTrH8YOkulV2QktmnapN4b?purpose=fullsize)
 
@@ -330,7 +330,7 @@ Ischial Tuberosity
 
 ---
 
-## 舞蹈中的作用
+## 运动训练中的作用
 
 ### 骨盆中立位
 
@@ -346,7 +346,7 @@ Anterior Pelvic Tilt
 
 常见于：
 
-- 下腰训练过多
+- 桥式后伸训练过多
     
 - 髂腰肌紧张
     
@@ -412,9 +412,9 @@ Greater Trochanter
 
 ---
 
-## 舞蹈中的意义
+## 运动训练中的意义
 
-### 外开能力
+### 髋外旋控制能力
 
 受以下因素影响：
 
@@ -427,7 +427,7 @@ Greater Trochanter
 
 因此：
 
-并非所有舞者都能达到180°外开。
+并非所有运动训练者都能达到180°髋外旋控制。
 
 ---
 
@@ -483,7 +483,7 @@ Greater Trochanter
 
 # 四、足部骨骼（Foot Skeleton）
 
-舞蹈动作最终都通过足部与地面互动。
+运动动作最终都通过足部与地面互动。
 
 ![Image](https://images.openai.com/static-rsc-4/hdCwVXiohNavWvpRvb2gzYjSKeSmMZgjRClwyqXlg6658LHZP9KQtYOrZDvoTr2QSc8aO5ZN63Jg64xrmjDPb0tp9hjPqvCkUBIQQc7sYKA-Q8YJWq2Ps0IIS6MpyqY_NQEA2C1H2AkRC6bHkFAgjIPnC6A-Jld8Cvnimu4UzDfj1yyA-MAn7e3sjGggMwiP?purpose=fullsize)
 
@@ -536,9 +536,9 @@ Greater Trochanter
 
 ---
 
-# 舞蹈解剖重点——骨骼决定技术上限
+# 运动解剖重点——骨骼决定技术上限
 
-很多舞者会把动作受限归结于“筋太硬”。
+很多运动训练者会把动作受限归结于“筋太硬”。
 
 实际上骨骼结构往往占据很大因素。
 
@@ -546,14 +546,14 @@ Greater Trochanter
 
 |动作|主要骨骼因素|
 |---|---|
-|外开 Turnout|股骨前倾角、髋臼方向|
-|阿拉贝斯克 Arabesque|髋关节结构、骨盆控制|
-|下腰 Backbend|胸椎形态、肋骨活动度|
-|Pointe|距骨形态、足弓结构|
-|深蹲 Plié|髋臼深度、踝背屈空间|
+|髋外旋控制 Hip External Rotation|股骨前倾角、髋臼方向|
+|后伸抬腿 Back Leg Extension|髋关节结构、骨盆控制|
+|桥式后伸 Bridge Extension|胸椎形态、肋骨活动度|
+|提踵能力|距骨形态、足弓结构|
+|深蹲对线|髋臼深度、踝背屈空间|
 
-因此，学习舞蹈解剖学的第一原则是：
+因此，学习运动解剖学的第一原则是：
 
 > **先理解骨骼结构，再讨论柔韧性和力量。**
 
-这是很多舞蹈训练、运动康复和运动生物力学课程的核心思想。下一章通常会进入**关节系统（Joint System）**，重点分析髋关节、膝关节、踝关节、脊柱关节如何决定舞者的动作质量和损伤风险。
+这是很多运动训练、运动康复和运动生物力学课程的核心思想。下一章通常会进入**关节系统（Joint System）**，重点分析髋关节、膝关节、踝关节、脊柱关节如何决定运动训练者的动作质量和损伤风险。

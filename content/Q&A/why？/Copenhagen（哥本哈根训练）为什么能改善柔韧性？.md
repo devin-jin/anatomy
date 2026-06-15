@@ -8,7 +8,7 @@
 > 
 > “为什么会提高柔韧性？”
 
-实际上，它之所以对舞者、体操运动员、武术训练者非常有价值，是因为：
+实际上，它之所以对运动训练者、体操运动员、武术训练者非常有价值，是因为：
 
 > 它提升的是“有力量支撑的活动范围”。
 
@@ -127,7 +127,7 @@ Copenhagen 最经典的形式是：
 
 ---
 
-# 四、Copenhagen 对舞者特别重要的原因
+# 四、Copenhagen 对运动训练者特别重要的原因
 
 ![Image](https://images.openai.com/static-rsc-4/J72JmFha3mFjEg29Q0D-wP_LLcTPnm2rLYaqFO8lCI5LI_6LQW53fcZ_UzVZr3ja0BgYmEQsu3oEcVmyaUEm_TNSVTxFIm4d0TkmC2gHMa6uAbHLYK85k1hVSgWtRvZf6MbqMYoB4wKcVVzKzwpqiSTPKTINM_o-MOGSRKmKSj05e0oeIYPDgto81ValTfJI?purpose=fullsize)
 
@@ -141,9 +141,9 @@ Copenhagen 最经典的形式是：
 
 ![Image](https://images.openai.com/static-rsc-4/liF7Ou299EyIKcsvelf40Za2QEj7tpcYakJenAihhLScT4raT4rqKMfFiDiZzcTzxp-u6UjPepyZqhAPsQrm-zW4HYtP3MLfKSAYCv2_QVXLQqefgvojYtSV6TqQziFMAke__LHs1v6fb6EkL6t7K061Iv4IkovGVR77uc8T9UfpZ3ktq6nuLYVCCjJLFqNR?purpose=fullsize)
 
-舞者大量动作依赖：
+运动训练者大量动作依赖：
 
-- [[外开（Turnout）]]
+- [[髋外旋控制（Hip External Rotation Control）]]
     
 - 横叉（Middle Split）
     
@@ -156,7 +156,7 @@ Copenhagen 最经典的形式是：
 
 > 内收肌不仅“能拉长”，还必须“能发力”。
 
-很多舞者：
+很多运动训练者：
 
 - 横叉很开
     
@@ -284,12 +284,12 @@ Copenhagen 会强化：
 
 - 横叉控制
     
-- 舞蹈专项需求
+- 运动专项需求
     
 
 ---
 
-# 八、为什么很多舞者“很软但不稳定”？
+# 八、为什么很多运动训练者“很软但不稳定”？
 
 因为她们长期训练的是：
 

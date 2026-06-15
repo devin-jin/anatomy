@@ -2,7 +2,7 @@
 
 肌肉系统（Muscular System）是人体运动系统（Musculoskeletal System）的动力来源，由全身约600余块肌肉组成，约占成年人总体重的40%～50%。
 
-对于舞蹈生、运动员、康复治疗师和脊椎治疗师来说，肌肉系统是解剖学、运动学和损伤康复的核心内容之一。
+对于运动训练者、运动员、康复治疗师和脊椎治疗师来说，肌肉系统是解剖学、运动学和损伤康复的核心内容之一。
 
 ---
 
@@ -20,9 +20,9 @@
     
 - 跳跃（Jumping）
     
-- 下腰（Backbend）
+- 桥式后伸（Bridge Extension）
     
-- 外开（Turnout）
+- 髋外旋控制（Hip External Rotation Control）
     
 
 ---
@@ -428,7 +428,7 @@ Length-Tension Relationship
 
 ---
 
-# 九、舞蹈生最重要的肌群
+# 九、运动训练者最重要的肌群
 
 ## 臀大肌（Gluteus Maximus）
 
@@ -454,9 +454,9 @@ Length-Tension Relationship
 
 与：
 
-- Relevé
+- 单腿提踵
     
-- Arabesque
+- Back Leg Extension
     
 
 密切相关。
@@ -482,7 +482,7 @@ Length-Tension Relationship
 
 决定：
 
-外开（Turnout）。
+髋外旋控制（Hip External Rotation Control）。
 
 ---
 
@@ -523,9 +523,9 @@ Length-Tension Relationship
 
 - 控腿
     
-- Developpé
+- 主动抬腿控制
     
-- Grand Battement
+- Grand 动态摆腿
     
 
 ---
@@ -541,14 +541,14 @@ Length-Tension Relationship
 
 决定：
 
-- 提踵（Relevé）
+- 提踵（单腿提踵）
     
-- Pointe
+- 提踵能力
     
 
 ---
 
-# 十、舞蹈生常见肌肉问题
+# 十、运动训练者常见肌肉问题
 
 |问题|常见原因|
 |---|---|
@@ -556,12 +556,12 @@ Length-Tension Relationship
 |腘绳肌紧张|骨盆控制差|
 |髂腰肌紧张|久坐|
 |腓骨肌无力|踝不稳|
-|深外旋肌不足|外开代偿|
+|深外旋肌不足|髋外旋控制代偿|
 |核心控制不足|腰痛|
 
 ---
 
-# 肌肉系统学习路线（舞蹈解剖版）
+# 肌肉系统学习路线（运动解剖版）
 
 建议按以下顺序学习：
 
@@ -587,7 +587,7 @@ Length-Tension Relationship
 8. 肌肉角色分析
     
 
-### 第三阶段：舞蹈专项
+### 第三阶段：运动专项
 
 9. 核心肌群
     
@@ -610,7 +610,7 @@ Length-Tension Relationship
     
 17. 延迟性肌肉酸痛（DOMS）
     
-18. 舞者常见肌肉失衡
+18. 运动训练者常见肌肉失衡
     
 
-对于你目前在学习舞蹈解剖、康复训练和脊椎治疗课程，下一步最关键的是深入掌握**核心肌群（Core Muscles）与髋关节肌群（Hip Muscles）**，因为外开（Turnout）、控腿（Developpé）、下腰（Backbend）、腰痛和膝踝损伤几乎都与这两个系统直接相关。
+对于你目前在学习运动解剖、康复训练和脊椎治疗课程，下一步最关键的是深入掌握**核心肌群（Core Muscles）与髋关节肌群（Hip Muscles）**，因为髋外旋控制（Hip External Rotation Control）、控腿（主动抬腿控制）、桥式后伸（Bridge Extension）、腰痛和膝踝损伤几乎都与这两个系统直接相关。

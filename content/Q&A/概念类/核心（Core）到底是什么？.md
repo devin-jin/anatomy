@@ -198,7 +198,7 @@
 
 ---
 
-# 为什么舞蹈生特别需要核心
+# 为什么运动训练者特别需要核心
 
 ![Image](https://images.openai.com/static-rsc-4/wsFM_ZjgTpv5VJ2y9sVtLKO98aHrdEQVaumiSd3S2RFlwBWx36m931WUQE_Z22CpQNy8N0PyU63ZEzpv-zYol3ircrlnuQKDFt3uwL6Jcww-8VJTza5GKXrNasCARgkQw0oSsuSp509sWSz20Qc-AsTUNjtTQEnnu-p54rkwXLhWRcx2J_ncYSNaTlb1QRKQ?purpose=fullsize)
 
@@ -208,21 +208,21 @@
 
 ![Image](https://images.openai.com/static-rsc-4/jgm2V11AADPpw43KufYCfTd9IyETAEPDUuI6HZBQtsOn2NGosVurxAB60CKHR4VQW72m6Sq-NFRtzfXb5jeumoVihr9Bv6bjyoHD1n-qC7_IWSiUMGZL5SnPv_9xSia0BJt4TDzrxzKl82gNHetsb_mxqqZa9Fp4w8a639thzR7XXK40IyElOaoi84MT5NrV?purpose=fullsize)
 
-舞蹈动作的本质之一就是：
+运动动作的本质之一就是：
 
 > 在不稳定中保持控制。
 
 例如：
 
-- Arabesque
+- Back Leg Extension
     
 - Pirouette
     
-- Developpé
+- 主动抬腿控制
     
-- Grand Battement
+- Grand 动态摆腿
     
-- 下腰
+- 桥式后伸
     
 - 跳跃落地
     
@@ -321,7 +321,7 @@
     
 - 动态稳定
     
-[[舞蹈生需要核心稳定性，那还需要练卷腹吗]]
+[[运动训练者需要核心稳定性，那还需要练卷腹吗]]
 ---
 
 # 现代核心训练的几大方向
@@ -434,7 +434,7 @@
 - 运动中是否能维持中轴控制
     
 
-这也是为什么在舞蹈、竞技运动以及康复训练中：
+这也是为什么在运动训练、竞技运动以及康复训练中：
 
 核心训练的重点越来越从“练腹肌”，转向：
 

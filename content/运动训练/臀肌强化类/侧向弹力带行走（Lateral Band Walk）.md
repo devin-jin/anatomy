@@ -1,0 +1,22 @@
+## 动态髋稳定
+
+![https://images.openai.com/static-rsc-4/aMFOLlai6z1Tc2MS85BMKdKjjEpKSAKQDv2OByU6OTPszKOCd-OJImBVqefxyKyVMsbSDmzNHoTz6s2cdfFMXn29NPExrBGIJlbqU3gyQZBFJ6v_2uQX6UnA5FEtGH-e0gG7F6sLjc9F75JTWJ6fGd98idtSWcQrVLrDi7d1iMkD7C8gAVtAe41SKTwxmivt?purpose=fullsize](https://images.openai.com/static-rsc-4/j5M1OxoWr1Vi7RFIM_kHzdAXnvKnPOqUzfVMQgly0TJgMxapK7PuL9KDhjw1PphkpyMPhe_Ksc8oYGr87WINR9UinJsBAkMN00vGnE0AwugF5mX3pOdz-pPiaoyOCGRk0wAFrNmS-DMOuiB4toITDNrlDkyn4aKwshNUrRUnVB4?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/LfQBgIoqi79Lydu-f4FoCkX6odJL0GWGydwyMH2_MSGOlEcOzzg4RVaHQ4Ip-687oSckefU74vEZTJ0UUI_7fdQYYKmFKStENxc2BQF3RCZsbqUc1XP6uhnWEiQKAVdWSsRPTCvsPI40XgSKX17Yb900kaJN-h8VqA5c4Wwtf8QYfKAA1P_r4tbwDHE-B6CH?purpose=fullsize](https://images.openai.com/static-rsc-4/BILI0AipzsYKwT-VZgcO2XfOzjTtgQFMH3zo5mBhh3d6eh6yLfM8bi8RILfQdjoF4pQmNrQsmVQbS6GT6c7Fz_auQfTQanY8RE26hfg81lh5wnDM2DbH0RYKDhZEI9b0BxC3kIENOXdlIQiJQzG8uSufQIf6MJG9yvLS_UBI95U?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/nIFD5WN5ZtbMsEuSuoqCjEOKRbWT-7gS4DCVhXSowupgp_iatdSvIIGclMm2Hucnlv2nacrncHg93ePLUp22f2zC_Cu3sooOGT2b9KQReExbzum2MjXMOoyaGz59Ep_i9-ZR9TGey1xub3s9eptzaMayxGYOyQxnHduoyHLVOqSp4xRtQy9DP2HqpQasJPsm?purpose=fullsize](https://images.openai.com/static-rsc-4/_IVvzR43ifZucZu7xBkw1zUwbo6NViurhduqcP3a_Xs8DJ_5EyO7POwFTUhbqx6QuNwym_mG7Wh3Qcus1RTjet-Tjl5ujEtgUfLlKtHia8XsuujlfgVjqP3qjW4tm9xX8vm5hC-taTTo4LBYo7hzwqlaVR0A5ufB0pQNXDcVXLU?purpose=inline)
+
+侧向弹力带行走是运动训练者非常关键的**动态稳定训练**，重点不是“走”，而是“控制髋不塌”。
+
+### 动作要点：
+
+- 弹力带套在膝上或脚踝
+- 微屈髋膝（类似半蹲）
+- 保持骨盆水平，不左右晃动
+- 小步横向移动，始终保持张力
+
+### 训练意义：
+
+- 提升髋外展稳定性
+- 强化单腿支撑能力
+- 预防膝关节内扣（valgus collapse）

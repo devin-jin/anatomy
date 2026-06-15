@@ -1,4 +1,4 @@
-对于运动康复、舞蹈训练和竞技体育来说，目前的研究结论其实非常一致：
+对于运动康复、运动训练和竞技体育来说，目前的研究结论其实非常一致：
 
 >[[功能链训练（Functional Training）]]和孤立肌肉训练（Isolated Muscle Training）不是二选一，而是互补关系。** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22784233/?utm_source=chatgpt.com "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review - PubMed"))
 
@@ -179,11 +179,11 @@
 
 ---
 
-# 舞蹈生怎么分配？
+# 运动训练者怎么分配？
 
 对于你比较关注的：
 
-- [[外开（Turnout）]]
+- [[髋外旋控制（Hip External Rotation Control）]]
     
 - 柔韧性
     
@@ -233,7 +233,7 @@
 
 ---
 
-## 回归舞蹈训练
+## 回归运动训练
 
 孤立训练 10~20%
 
@@ -241,9 +241,9 @@
 
 例如：
 
-- 外开控制（Turnout Control）
+- 髋外旋控制控制（Hip External Rotation Control）
     
-- 阿拉贝斯克控制（Arabesque Control）
+- 后伸抬腿控制（Back Leg Extension Control）
     
 - 单腿跳跃落地（Single Leg Landing）
     
@@ -252,7 +252,7 @@
 
 ---
 
-# 以舞蹈外开为例
+# 以运动训练髋外旋控制为例
 
 很多人天天练：
 
@@ -260,11 +260,11 @@
 
 结果：
 
-卧姿外开很好
+卧姿髋外旋控制很好
 
 ↓
 
-站起来外开失控
+站起来髋外旋控制失控
 
 ↓
 
@@ -282,18 +282,18 @@
     
 2. [[外旋弹力带训练（Band External Rotation）|弹力带外旋]]（Band External Rotation）
     
-3. [[外开桥（Turnout Bridge）]]
+3. [[髋外旋桥（Hip External Rotation Bridge）]]
     
-4. [[站立外开控制（Standing Turnout Control）]]
+4. [[站立髋外旋控制（Standing Hip External Rotation Control）]]
     
-5. 单腿外开控制（Single-Leg Turnout Control）
+5. 单腿髋外旋控制控制（Single-Leg Hip External Rotation Control）
     
-6. 舞蹈专项动作
+6. 运动专项动作
     
 
 ---
 
-# 针对舞蹈生的最佳比例
+# 针对运动训练者的最佳比例
 
 根据目前运动表现和康复研究，以及国家队和职业舞团常见做法：
 
@@ -304,7 +304,7 @@
 |专项准备期|20%|80%|
 |比赛/演出期|10%|90%|
 
-因此对于健康舞蹈生而言：
+因此对于健康运动训练者而言：
 
 > **大约 20% 孤立训练 + 80% 功能链训练** 是比较合理的长期配置。
 
@@ -312,4 +312,4 @@
 
 功能链训练负责解决“会发力但不会在动作中使用”的问题。
 
-而舞蹈、艺术体操、花样滑冰这类项目，最终决定表现的往往是后者。 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22784233/?utm_source=chatgpt.com "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review - PubMed"))
+而运动训练、艺术体操、花样滑冰这类项目，最终决定表现的往往是后者。 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22784233/?utm_source=chatgpt.com "The effects of isolated and integrated 'core stability' training on athletic performance measures: a systematic review - PubMed"))

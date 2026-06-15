@@ -1,0 +1,14 @@
+### 双腿站立髋外旋控制控制
+
+![https://images.openai.com/static-rsc-4/QHNqIVPODnt34JRZgFSUS6QaA_LqRxR3eU-_CxskZW5W4qTeQ6I6TalkgVaumCH3pUHxLP-24ovOWhyiziIEuJfMJfh3sADfRUB6ADsEGxv7HuNPobA3U2z2jgkKK5RRifz4HjJOV-Np69PVBzPJXdUgSgK8ATKsaCJ5StcE5yG30Z5JphL65ta1xgzLjV6i?purpose=fullsize](https://images.openai.com/static-rsc-4/jLjmUWNc0QZ1oNu0y6EFd6RJBH-RsDcSasG5DnNAeQJCApaMLa9yqsFTPopvJIIUxw7GwivDNCAGBcB7tnpfaD-Hi-A-QZYNJuYZb5757WuNJMAXzGtFctZKUXRjbSmTbcxbLsP9uKPRs6vAJc4bL4556bOry4BQVncv9ETe8r0?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/adm7waJXLIH1PMC1ilc9GLwqMlqLkH5JRCY_ZM8Ql-yzJRtzg9eoooBuZEGZQco1aQLD3FP_vi4PE6RYl_OstHuur3rsxV7hw5kNUPUt6D5MNfJWNi_1O4V5KS3Zi66gmRX9YHx2KweoG3SmjDEeTYLXMpxL-3Q-YrEovnCLEYaZwQuaOEgCkJ9bK-FusgWy?purpose=fullsize](https://images.openai.com/static-rsc-4/UEtoVeGC8zSUZK0U1yrgDfLS0PFmRfkFZms1gVlgidu6c_HcLNYvKTitLlDrxCJ-jQL_1UU2w0Pj0PVL6RLOXxy5AEpY_2DAzS-XdxXkmplwstFM5YTcQvILLie7NAAN96KT_gVZY0LLv-qUOzEzVwUcVf-nR-i-xDmPVINdGOo?purpose=inline)
+
+![https://images.openai.com/static-rsc-4/nyPPyJS_dhJEPeBGb0rSWNhUserTFg7Ir3kFjkEs6MpfV1oO4g6zKId0QsSFIEMIz3I7pGR44xKVnrTyfGLtw52S3ce55q3cO3afodlGjU1UQa9mXjIhpwW2w94hNVcmCrc9zwDryNZRB6aeS_ibvb12JbR3jpR9Zvn0TqKgaswwaRathnSwQByzDK_nVQRV?purpose=fullsize](https://images.openai.com/static-rsc-4/XBkFuNjlyhnbczh50YotiFagy5VVx6cuChNWYEvPIPWyxWy-Nof_tWieCPsTnpqKIU5x3r8u2HEGdVUDdqqt2uVzQHGUgScxeVYY9ZH9kjZkneDHU6xGw3nR6N-lIRF0HOjF-8vIHVMVyMb-EJxehRmzR8W6pEMytwE2u7fTtfk?purpose=inline)
+
+
+重点：
+
+- 膝盖对准第二脚趾
+- 足弓稳定
+- 髋外旋控制来自髋关节

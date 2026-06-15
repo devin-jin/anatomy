@@ -21,7 +21,7 @@
 | 难点   | 单腿稳定                 | 动态接受冲击         |
 | 更像   | “力量底座”               | “运动表现”         |
 | 难度   | 更基础（控制）              | 更高（协调）         |
-| 舞蹈意义 | 单腿支撑                 | 步伐/跳跃连接        |
+| 运动训练意义 | 单腿支撑                 | 步伐/跳跃连接        |
 
 # 一、Split Squat 的核心目的
 
@@ -43,7 +43,7 @@
 
 比如：
 
-● 舞蹈arabesque
+● 运动训练back-leg extension
 
 ● 跑步支撑期
 
@@ -219,7 +219,7 @@ Forward/reverse lunge
 
 跳跃/变向
 
-# 对舞者的意义区别
+# 对运动训练者的意义区别
 
 # Split Squat 更像：
 
@@ -227,7 +227,7 @@ Forward/reverse lunge
 
 例如：
 
-● arabesque
+● back-leg extension
 
 ● développé
 
@@ -299,7 +299,7 @@ Lunge 对神经系统要求更高。
 |康复初期|Split squat|
 |髋稳定|Split squat|
 |臀中肌训练|Split squat|
-|舞者单腿控制|Split squat|
+|运动训练者单腿控制|Split squat|
 |跑步专项|Lunge|
 |变向能力|Lunge|
 |动态减速|Lunge|

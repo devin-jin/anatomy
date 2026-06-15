@@ -12,7 +12,7 @@ FAI 全称：
 
 最常见于：
 
-- 舞者
+- 运动训练者
     
 - 体操
     
@@ -31,26 +31,26 @@ FAI 全称：
     
 - 极端髋屈曲
     
-- 外开
+- 髋外旋控制
     
 - 抬腿
     
-- 下腰
+- 桥式后伸
     
 
 ---
 
-# 为什么舞者特别容易出现 FAI？
+# 为什么运动训练者特别容易出现 FAI？
 
-因为舞蹈大量动作都需要：
+因为运动训练大量动作都需要：
 
-- turnout（外开）
+- Hip External Rotation（髋外旋控制）
     
-- developpé（控腿）
+- active leg raise control（控腿）
     
-- grand battement（大踢腿）
+- grand battement（大动态摆腿）
     
-- 深 plié
+- 深 深蹲对线
     
 - 高抬腿
     
@@ -65,7 +65,7 @@ FAI 全称：
 
 - 骨结构本身有限
     
-- 还强行追求更大 turnout
+- 还强行追求更大 Hip External Rotation
     
 - 再加上代偿
     
@@ -101,9 +101,9 @@ FAI 全称：
     
 - 高抬腿
     
-- developpé
+- active leg raise control
     
-- 深 plié
+- 深 深蹲对线
     
 - 坐姿抱腿
     
@@ -144,7 +144,7 @@ FAI 全称：
 
 ---
 
-# 很多舞者其实是混合型
+# 很多运动训练者其实是混合型
 
 也就是：
 
@@ -153,11 +153,11 @@ FAI 全称：
 
 ---
 
-# FAI 在舞者中的研究
+# FAI 在运动训练者中的研究
 
 ## 文献
 
-《Hip Injuries in Dancers》
+《Hip Injuries in High-flexibility sportrs》
 
 [PubMed 文献页面](https://pubmed.ncbi.nlm.nih.gov/23015923/?utm_source=chatgpt.com)
 
@@ -165,7 +165,7 @@ FAI 全称：
 
 ## 研究发现
 
-舞者非常容易出现：
+运动训练者非常容易出现：
 
 - FAI
     
@@ -176,15 +176,15 @@ FAI 全称：
 
 尤其：
 
-> 长期 extreme turnout 的舞者。
+> 长期 extreme Hip External Rotation 的运动训练者。
 
 ---
 
-# 为什么“强压外开”可能导致 FAI？
+# 为什么“强行追求髋外旋角度”可能导致 FAI？
 
 现代研究越来越强调：
 
-很多舞者并不是：
+很多运动训练者并不是：
 
 髋真的能开那么大。
 
@@ -201,7 +201,7 @@ FAI 全称：
 - 足部代偿
     
 
-硬制造 turnout。
+硬制造 Hip External Rotation。
 
 长期下来：
 
@@ -242,9 +242,9 @@ FAI 全称：
 
 ---
 
-# 舞者常见表现
+# 运动训练者常见表现
 
-很多舞者会说：
+很多运动训练者会说：
 
 - “大腿根夹”
     
@@ -254,9 +254,9 @@ FAI 全称：
     
 - “腿抬高会卡”
     
-- “developpé 某个位置疼”
+- “active leg raise control 某个位置疼”
     
-- “下腰后髋前紧”
+- “桥式后伸后髋前紧”
     
 
 这些都很典型。
@@ -299,7 +299,7 @@ FAI 全称：
 
 不是所有“软”都是好事。
 
-很多舞者：
+很多运动训练者：
 
 - 活动度很大
     
@@ -312,9 +312,9 @@ FAI 全称：
 
 ---
 
-# 文献：舞者髋关节损伤机制
+# 文献：运动训练者髋关节损伤机制
 
-《Understanding hip pathology in ballet dancers》
+《Understanding hip pathology in ballet high-flexibility athletes》
 
 [PubMed 文献页面](https://pubmed.ncbi.nlm.nih.gov/24280392/?utm_source=chatgpt.com)
 
@@ -324,9 +324,9 @@ FAI 全称：
 
 研究指出：
 
-舞者髋损伤常与：
+运动训练者髋损伤常与：
 
-- extreme turnout
+- extreme Hip External Rotation
     
 - repetitive end-range motion
     
@@ -374,7 +374,7 @@ FAI 全称：
 
 ---
 
-## 3. 主动外开
+## 3. 主动髋外旋控制
 
 而不是被动硬压。
 
@@ -445,11 +445,11 @@ FAI 全称：
 
 ---
 
-# 关于 FAI，现代舞蹈医学最重要的一句话
+# 关于 FAI，现代运动医学最重要的一句话
 
 过去：
 
-> “开不开”
+> “能不能外旋”
 
 现在：
 
