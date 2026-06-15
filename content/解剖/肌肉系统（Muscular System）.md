@@ -426,6 +426,7 @@ Length-Tension Relationship
 
 直腿抬高时腘绳肌限制动作。
 
+[[主动不足（Active Insufficiency）与被动不足（Passive Insufficiency）]]
 ---
 
 # 九、运动训练者最重要的肌群
@@ -612,5 +613,3 @@ Length-Tension Relationship
     
 18. 运动训练者常见肌肉失衡
     
-
-对于你目前在学习运动解剖、康复训练和脊椎治疗课程，下一步最关键的是深入掌握**核心肌群（Core Muscles）与髋关节肌群（Hip Muscles）**，因为髋外旋控制（Hip External Rotation Control）、控腿（主动抬腿控制）、桥式后伸（Bridge Extension）、腰痛和膝踝损伤几乎都与这两个系统直接相关。
